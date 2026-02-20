@@ -1,0 +1,14 @@
+public_information/bigg_models_metabolites.txt
+public_information/brenda_2024_1.txt
+
+scripts/_cache
+log.md
+scripts/08_FBA_comparison_and_sampling copy no complex gpr.ipynb
+scripts/08_FBA_comparison_and_sampling.ipynb
+scripts/09_hopsy_flux_sampling.ipynb
+scripts/chrr_flux_sampling_09.m
+unparameterized_models/e_coli_core.xml
+
+**/__pycache__/
+
+.vscode/settings.json
