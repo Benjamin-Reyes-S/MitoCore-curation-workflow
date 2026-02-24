@@ -12,3 +12,4 @@ unparameterized_models/e_coli_core.xml
 **/__pycache__/
 
 .vscode/settings.json
+*.pkl
