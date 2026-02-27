@@ -13,3 +13,4 @@ unparameterized_models/e_coli_core.xml
 
 .vscode/settings.json
 setup-sampling-deps.bat
+*.pkl
