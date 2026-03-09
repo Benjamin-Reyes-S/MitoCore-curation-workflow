@@ -1,0 +1,342 @@
+kegg.module,module_name
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00002,"Glycolysis, core module involving three-carbon compounds"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00002,"Glycolysis, core module involving three-carbon compounds"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00002,"Glycolysis, core module involving three-carbon compounds"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00002,"Glycolysis, core module involving three-carbon compounds"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00002,"Glycolysis, core module involving three-carbon compounds"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+M00002,"Glycolysis, core module involving three-carbon compounds"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA"
+M00549,"UDP-Glc biosynthesis, Glc => UDP-Glc"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+M00087,beta-Oxidation
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00087,beta-Oxidation
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00006,"Pentose phosphate pathway, oxidative phase, glucose-6P => ribulose-5P"
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+M00006,"Pentose phosphate pathway, oxidative phase, glucose-6P => ribulose-5P"
+M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+M00029,Urea cycle
+M00844,"Arginine biosynthesis, ornithine => arginine"
+M00029,Urea cycle
+M00844,"Arginine biosynthesis, ornithine => arginine"
+M00029,Urea cycle
+M00027,GABA (gamma-Aminobutyrate) shunt
+M00027,GABA (gamma-Aminobutyrate) shunt
+M00027,GABA (gamma-Aminobutyrate) shunt
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00970,"Proline degradation, proline => glutamate"
+M00972,Proline metabolism
+M00029,Urea cycle
+M00844,"Arginine biosynthesis, ornithine => arginine"
+M00029,Urea cycle
+M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+M00015,"Proline biosynthesis, glutamate => proline"
+M00970,"Proline degradation, proline => glutamate"
+M00972,Proline metabolism
+M00015,"Proline biosynthesis, glutamate => proline"
+M00970,"Proline degradation, proline => glutamate"
+M00972,Proline metabolism
+M00015,"Proline biosynthesis, glutamate => proline"
+M00972,Proline metabolism
+M00972,Proline metabolism
+M00972,Proline metabolism
+M00015,"Proline biosynthesis, glutamate => proline"
+M00015,"Proline biosynthesis, glutamate => proline"
+M00034,Methionine salvage pathway
+M00034,Methionine salvage pathway
+M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+M00047,Creatine pathway
+M00034,Methionine salvage pathway
+M00029,Urea cycle
+M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA"
+M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA"
+M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA"
+M00015,"Proline biosynthesis, glutamate => proline"
+M00972,Proline metabolism
+M00027,GABA (gamma-Aminobutyrate) shunt
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00020,"Serine biosynthesis, glycerate-3P => serine"
+M00020,"Serine biosynthesis, glycerate-3P => serine"
+M00020,"Serine biosynthesis, glycerate-3P => serine"
+M00141,"C1-unit interconversion, eukaryotes"
+M00035,Methionine degradation
+M00047,Creatine pathway
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00141,"C1-unit interconversion, eukaryotes"
+M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00087,beta-Oxidation
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00087,beta-Oxidation
+M00087,beta-Oxidation
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"
+M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"
+M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00044,"Tyrosine degradation, tyrosine => homogentisate"
+M00034,Methionine salvage pathway
+M00035,Methionine degradation
+M00035,Methionine degradation
+M00035,Methionine degradation
+M00338,"Cysteine biosynthesis, homocysteine + serine => cysteine"
+M00338,"Cysteine biosynthesis, homocysteine + serine => cysteine"
+M00034,Methionine salvage pathway
+M00034,Methionine salvage pathway
+M00034,Methionine salvage pathway
+M00034,Methionine salvage pathway
+M00034,Methionine salvage pathway
+M00118,"Glutathione biosynthesis, glutamate => glutathione"
+M00118,"Glutathione biosynthesis, glutamate => glutathione"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+M00086,"beta-Oxidation, acyl-CoA synthesis"
+M00082,"Fatty acid biosynthesis, initiation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00083,"Fatty acid biosynthesis, elongation"
+M00082,"Fatty acid biosynthesis, initiation"
+M00082,"Fatty acid biosynthesis, initiation"
+M00082,"Fatty acid biosynthesis, initiation"
+M00089,Triacylglycerol biosynthesis
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00085,Fatty acid elongation in mitochondria
+M00087,beta-Oxidation
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00089,Triacylglycerol biosynthesis
+M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00141,"C1-unit interconversion, eukaryotes"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA"
+M00158,"F-type ATPase, eukaryotes"
+M00160,"V-type ATPase, eukaryotes"
+M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"

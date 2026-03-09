@@ -1,0 +1,2201 @@
+model_id,kegg.module,module_name
+MAR03905,,
+MAR03907,,
+MAR04097,M00357,"Methanogenesis, acetate => methane"
+MAR04099,M00357,"Methanogenesis, acetate => methane"
+MAR04108,,
+MAR04133,,
+MAR04388,,
+MAR04283,,
+MAR08357,,
+MAR04379,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04379,M00345,"Formaldehyde assimilation, ribulose monophosphate pathway"
+MAR04301,,
+MAR04355,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04358,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04358,M00002,"Glycolysis, core module involving three-carbon compounds"
+MAR04360,,
+MAR04363,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04363,M00002,"Glycolysis, core module involving three-carbon compounds"
+MAR04363,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04363,M00346,"Formaldehyde assimilation, serine pathway"
+MAR04365,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04365,M00002,"Glycolysis, core module involving three-carbon compounds"
+MAR04365,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04368,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04368,M00002,"Glycolysis, core module involving three-carbon compounds"
+MAR04368,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04368,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04368,M00308,"Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"
+MAR04368,M00552,"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"
+MAR04370,,
+MAR04371,,
+MAR04372,,
+MAR04373,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04373,M00002,"Glycolysis, core module involving three-carbon compounds"
+MAR04373,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04373,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04373,M00308,"Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"
+MAR04373,M00552,"D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"
+MAR04375,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04375,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04375,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04375,M00344,"Formaldehyde assimilation, xylulose monophosphate pathway"
+MAR04375,M00345,"Formaldehyde assimilation, ribulose monophosphate pathway"
+MAR04377,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04377,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04377,M00344,"Formaldehyde assimilation, xylulose monophosphate pathway"
+MAR04381,,
+MAR04391,M00001,"Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"
+MAR04391,M00002,"Glycolysis, core module involving three-carbon compounds"
+MAR04391,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04391,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04394,,
+MAR04396,M00855,"Glycogen degradation, glycogen => glucose-6P"
+MAR06412,M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA"
+MAR07745,,
+MAR07747,,
+MAR03989,,
+MAR04122,M00014,Glucuronate pathway (uronate pathway)
+MAR04122,M00129,"Ascorbate biosynthesis, animals, glucose-1P => ascorbate"
+MAR04122,M00761,"Und-P-alpha-L-Ara4N biosynthesis, UDP-Glc => UDP-L-Ara4FN => Und-P-alpha-L-Ara4N"
+MAR04122,M00997,"UDP-Xyl/L-Ara biosynthesis, UDP-Glc => UDP-Xyl => UDP-L-Ala"
+MAR04122,M00999,"UDP-GlcA/GalA biosynthesis, UDP-Glc => UDP-GlcA => UDP-GalA"
+MAR04837,,
+MAR05395,,
+MAR08587,,
+MAR08583,,
+MAR08585,,
+MAR03944,M00129,"Ascorbate biosynthesis, animals, glucose-1P => ascorbate"
+MAR03944,M00549,"UDP-Glc biosynthesis, Glc => UDP-Glc"
+MAR03944,M00854,"Glycogen biosynthesis, glucose-1P => glycogen/starch"
+MAR03944,M01048,"Sulfoquinovosyldiacylglycerol (SQDG) biosynthesis, glucose-1P => SQDG"
+MAR04128,M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+MAR04128,M01004,"UDP-Galf biosynthesis, UDP-Glc => UDP-Galf"
+MAR04131,M00554,"UDP-Gal biosynthesis, Gal => UDP-Gal"
+MAR04131,M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+MAR04132,M00554,"UDP-Gal biosynthesis, Gal => UDP-Gal"
+MAR04132,M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+MAR04303,,
+MAR04414,M00554,"UDP-Gal biosynthesis, Gal => UDP-Gal"
+MAR04414,M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+MAR04415,,
+MAR04416,,
+MAR04831,,
+MAR04832,,
+MAR08761,,
+MAR08766,,
+MAR08767,,
+MAR00454,,
+MAR04297,,
+MAR04310,,
+MAR04315,,
+MAR04316,,
+MAR04319,,
+MAR04356,M00114,"Ascorbate biosynthesis, plants, fructose-6P => ascorbate"
+MAR04356,M01000,"GDP-Man biosynthesis, Fru-6P => GDP-Man"
+MAR04356,M01006,"GDP-D-Rha4N biosynthesis, Fru-6P => GDP-D-Rha4N"
+MAR04383,M00114,"Ascorbate biosynthesis, plants, fructose-6P => ascorbate"
+MAR04383,M01000,"GDP-Man biosynthesis, Fru-6P => GDP-Man"
+MAR04383,M01006,"GDP-D-Rha4N biosynthesis, Fru-6P => GDP-D-Rha4N"
+MAR04383,M01015,"GDP-Man biosynthesis, Man => GDP-Man"
+MAR04385,,
+MAR04386,M00114,"Ascorbate biosynthesis, plants, fructose-6P => ascorbate"
+MAR04386,M01000,"GDP-Man biosynthesis, Fru-6P => GDP-Man"
+MAR04386,M01006,"GDP-D-Rha4N biosynthesis, Fru-6P => GDP-D-Rha4N"
+MAR04386,M01015,"GDP-Man biosynthesis, Man => GDP-Man"
+MAR04387,M01006,"GDP-D-Rha4N biosynthesis, Fru-6P => GDP-D-Rha4N"
+MAR04387,M01016,"GDP-L-Fuc biosynthesis, GDP-Man => GDP-L-Fuc"
+MAR04387,M01017,"GDP-L-Col biosynthesis, GDP-Man => GDP-L-Col"
+MAR04387,M01018,"GDP-D-Rha biosynthesis, GDP-Man => GDP-D-Rha"
+MAR04387,M01019,"GDP-6-deoxy-Tal biosynthesis, GDP-Man => GDP-6-deoxy-Tal"
+MAR04387,M01020,"GDP-D-Rha4NAc biosynthesis, GDP-Man => GDP-D-Rha4N => GDP-D-Rha4NAc"
+MAR04387,M01034,"GDP-D-Rha4NFormyl biosynthesis, GDP-Man => GDP-D-Rha4N => GDP-D-Rha4NFormyl"
+MAR04399,M01016,"GDP-L-Fuc biosynthesis, GDP-Man => GDP-L-Fuc"
+MAR04400,M01001,"GDP-L-Fuc biosynthesis, L-Fuc => GDP-L-Fuc"
+MAR04401,M01001,"GDP-L-Fuc biosynthesis, L-Fuc => GDP-L-Fuc"
+MAR04402,,
+MAR04403,M01015,"GDP-Man biosynthesis, Man => GDP-Man"
+MAR04490,,
+MAR04706,M01016,"GDP-L-Fuc biosynthesis, GDP-Man => GDP-L-Fuc"
+MAR08768,M00014,Glucuronate pathway (uronate pathway)
+MAR04590,,
+MAR04591,,
+MAR04592,M00014,Glucuronate pathway (uronate pathway)
+MAR04593,,
+MAR04594,M00014,Glucuronate pathway (uronate pathway)
+MAR04595,,
+MAR08341,,
+MAR08342,M00014,Glucuronate pathway (uronate pathway)
+MAR08352,M00014,Glucuronate pathway (uronate pathway)
+MAR08353,,
+MAR08726,,
+MAR08729,M00014,Glucuronate pathway (uronate pathway)
+MAR08729,M00129,"Ascorbate biosynthesis, animals, glucose-1P => ascorbate"
+MAR06537,,
+MAR01568,,
+MAR03853,,
+MAR03854,,
+MAR03855,,
+MAR03857,,
+MAR03859,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR04087,M00169,"CAM (Crassulacean acid metabolism), light"
+MAR04087,M00172,"C4-dicarboxylic acid cycle, NADP - malic enzyme type"
+MAR04089,M00169,"CAM (Crassulacean acid metabolism), light"
+MAR04089,M00172,"C4-dicarboxylic acid cycle, NADP - malic enzyme type"
+MAR04091,,
+MAR04093,,
+MAR04095,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04101,M00003,"Gluconeogenesis, oxaloacetate => fructose-6P"
+MAR04103,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR04103,M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate"
+MAR04143,,
+MAR04193,,
+MAR08497,,
+MAR08502,,
+MAR08504,,
+MAR08511,,
+MAR08512,,
+MAR08514,,
+MAR08516,,
+MAR08517,,
+MAR04280,,
+MAR00153,,
+MAR03212,,
+MAR03797,,
+MAR03800,,
+MAR04105,M00013,"Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"
+MAR04105,M00991,"Dimethylsulfoniopropionate (DMSP) degradation, cleavage pathway, DMSP => acetyl-CoA"
+MAR04105,M00992,"Dimethylsulfoniopropionate (DMSP) degradation, cleavage pathway, DMSP => acrylate => acetyl-CoA"
+MAR04106,,
+MAR04282,,
+MAR04331,,
+MAR04459,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR04460,M00013,"Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"
+MAR04464,M00013,"Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"
+MAR04497,M00982,Methylcitrate cycle
+MAR04741,,
+MAR08078,,
+MAR09803,,
+MAR09804,,
+MAR00718,M00087,beta-Oxidation
+MAR00718,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR00718,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR00718,M00373,Ethylmalonyl pathway
+MAR00718,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR00718,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR00718,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR00718,M00957,"Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"
+MAR00719,,
+MAR01434,M00087,beta-Oxidation
+MAR01436,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR03163,,
+MAR04461,M00373,Ethylmalonyl pathway
+MAR05351,M00005,"PRPP biosynthesis, ribose-5P => PRPP"
+MAR07709,,
+MAR04052,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR04052,M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+MAR04052,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04052,M00580,"Pentose phosphate pathway, archaea, fructose-6P => ribose-5P"
+MAR04350,,
+MAR04352,,
+MAR04354,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR04354,M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+MAR04354,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04398,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR04398,M00006,"Pentose phosphate pathway, oxidative phase, glucose-6P => ribulose-5P"
+MAR04404,,
+MAR04474,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR04474,M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+MAR04474,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04476,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR04476,M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+MAR04476,M00165,Reductive pentose phosphate cycle (Calvin cycle)
+MAR04477,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR04477,M00007,"Pentose phosphate pathway, non-oxidative phase, fructose-6P => ribose-5P"
+MAR04501,,
+MAR04565,,
+MAR04567,,
+MAR09799,M00004,Pentose phosphate pathway (Pentose phosphate cycle)
+MAR09799,M00006,"Pentose phosphate pathway, oxidative phase, glucose-6P => ribulose-5P"
+MAR09799,M00008,"Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate"
+MAR09800,,
+MAR04625,,
+MAR04710,,
+MAR08074,,
+MAR03998,M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+MAR04000,M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+MAR04002,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04004,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04010,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04081,,
+MAR04082,,
+MAR04012,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR04014,,
+MAR04020,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04022,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR04038,M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+MAR04040,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR04042,,
+MAR04046,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04048,,
+MAR04080,,
+MAR04085,,
+MAR04086,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR04134,,
+MAR04135,,
+MAR04168,,
+MAR04171,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04290,M00049,"Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"
+MAR04406,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04412,,
+MAR04417,,
+MAR04418,,
+MAR04419,M00959,"Guanine ribonucleotide degradation, GMP => Urate"
+MAR04421,M00959,"Guanine ribonucleotide degradation, GMP => Urate"
+MAR04449,,
+MAR04450,,
+MAR04451,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR04452,,
+MAR04453,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04480,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04481,,
+MAR04482,,
+MAR04486,,
+MAR04487,,
+MAR04488,,
+MAR04489,,
+MAR04492,,
+MAR04493,,
+MAR04495,M00959,"Guanine ribonucleotide degradation, GMP => Urate"
+MAR04496,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04518,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04519,,
+MAR04520,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04573,,
+MAR04574,,
+MAR04600,,
+MAR04602,,
+MAR04603,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04611,,
+MAR04612,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04614,,
+MAR04615,,
+MAR04617,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04618,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04618,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04619,,
+MAR04621,M00546,"Purine degradation, xanthine => urea"
+MAR04621,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04621,M00959,"Guanine ribonucleotide degradation, GMP => Urate"
+MAR04632,M00546,"Purine degradation, xanthine => urea"
+MAR04632,M00958,"Adenine ribonucleotide degradation, AMP => Urate"
+MAR04632,M00959,"Guanine ribonucleotide degradation, GMP => Urate"
+MAR04646,M00959,"Guanine ribonucleotide degradation, GMP => Urate"
+MAR04646,M00968,"Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate"
+MAR04649,,
+MAR04651,,
+MAR04663,,
+MAR04664,,
+MAR04694,,
+MAR04695,,
+MAR04705,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04709,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04799,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04802,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04804,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04808,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04810,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04812,,
+MAR04814,,
+MAR05301,M00546,"Purine degradation, xanthine => urea"
+MAR05353,M00546,"Purine degradation, xanthine => urea"
+MAR06601,M00546,"Purine degradation, xanthine => urea"
+MAR06609,,
+MAR06611,,
+MAR07144,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR09797,M00050,"Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"
+MAR04016,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04018,,
+MAR04044,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04291,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04420,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04570,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR04572,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR04006,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR04028,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04030,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04030,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04670,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04670,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04673,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04675,,
+MAR04635,,
+MAR03793,,
+MAR03931,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR03969,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR03970,M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"
+MAR03970,M00978,Ornithine-ammonia cycle
+MAR04008,M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"
+MAR04032,M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"
+MAR04034,,
+MAR04036,,
+MAR04050,,
+MAR04056,,
+MAR04060,,
+MAR04127,,
+MAR04177,,
+MAR04179,,
+MAR04182,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR04183,,
+MAR04192,,
+MAR04194,,
+MAR04210,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04211,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04343,,
+MAR04345,,
+MAR04346,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04470,,
+MAR04471,,
+MAR04472,,
+MAR04484,,
+MAR04485,,
+MAR04510,,
+MAR04512,M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"
+MAR04513,M00968,"Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate"
+MAR04514,,
+MAR04577,M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"
+MAR04579,M00051,"De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"
+MAR04580,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04608,,
+MAR04575,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04637,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR04642,,
+MAR04643,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04644,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04672,,
+MAR04676,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04736,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR04819,,
+MAR05299,,
+MAR05352,,
+MAR05415,,
+MAR05416,,
+MAR05417,,
+MAR06621,,
+MAR07744,,
+MAR08637,,
+MAR03966,,
+MAR03968,,
+MAR03999,,
+MAR04024,,
+MAR04026,,
+MAR04054,M00176,"Assimilatory sulfate reduction, sulfate => H2S"
+MAR04054,M00596,"Dissimilatory sulfate reduction, sulfate => H2S"
+MAR04054,M00987,"Assimilatory sulfate reduction, plants, sulfate => H2S"
+MAR04061,M00176,"Assimilatory sulfate reduction, sulfate => H2S"
+MAR04083,,
+MAR04136,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04180,,
+MAR04185,,
+MAR04186,,
+MAR04342,,
+MAR04344,,
+MAR04483,,
+MAR04507,,
+MAR04516,,
+MAR04601,M00048,"De novo purine biosynthesis, PRPP + glutamine => IMP"
+MAR04633,,
+MAR04640,,
+MAR04641,,
+MAR04680,,
+MAR04806,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR05394,,
+MAR06625,M00052,"Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"
+MAR06626,M00938,"Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"
+MAR07717,M00053,"Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"
+MAR07875,,
+MAR07878,,
+MAR07883,,
+MAR07886,,
+MAR07890,,
+MAR07894,,
+MAR07895,,
+MAR08443,,
+MAR08444,,
+MAR08445,,
+MAR08473,,
+MAR08474,,
+MAR08477,,
+MAR08482,,
+MAR08484,,
+MAR08486,M00740,Methylaspartate cycle
+MAR08487,M00029,Urea cycle
+MAR08487,M00844,"Arginine biosynthesis, ornithine => arginine"
+MAR08487,M00845,"Arginine biosynthesis, glutamate => acetylcitrulline => arginine"
+MAR08487,M00978,Ornithine-ammonia cycle
+MAR08488,M00029,Urea cycle
+MAR08488,M00844,"Arginine biosynthesis, ornithine => arginine"
+MAR08488,M00845,"Arginine biosynthesis, glutamate => acetylcitrulline => arginine"
+MAR08488,M00978,Ornithine-ammonia cycle
+MAR08489,,
+MAR03802,M00170,"C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type"
+MAR03802,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR03804,M00170,"C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type"
+MAR03804,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR03811,,
+MAR03813,,
+MAR03822,,
+MAR03827,M00029,Urea cycle
+MAR03829,M00978,Ornithine-ammonia cycle
+MAR03862,,
+MAR03865,,
+MAR03870,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR03873,,
+MAR03890,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR03892,,
+MAR09802,,
+MAR03899,,
+MAR03903,,
+MAR04109,,
+MAR04114,,
+MAR04115,M00027,GABA (gamma-Aminobutyrate) shunt
+MAR04118,M00027,GABA (gamma-Aminobutyrate) shunt
+MAR04172,M00027,GABA (gamma-Aminobutyrate) shunt
+MAR04196,M00025,"Tyrosine biosynthesis, chorismate => HPP => tyrosine"
+MAR04196,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR04197,,
+MAR04287,,
+MAR04690,,
+MAR04693,M00970,"Proline degradation, proline => glutamate"
+MAR06780,M00972,Proline metabolism
+MAR07642,M00029,Urea cycle
+MAR07642,M00844,"Arginine biosynthesis, ornithine => arginine"
+MAR07642,M00978,Ornithine-ammonia cycle
+MAR08626,M00029,Urea cycle
+MAR08626,M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+MAR08628,M00015,"Proline biosynthesis, glutamate => proline"
+MAR08628,M00970,"Proline degradation, proline => glutamate"
+MAR08628,M00972,Proline metabolism
+MAR03806,M00015,"Proline biosynthesis, glutamate => proline"
+MAR03806,M00970,"Proline degradation, proline => glutamate"
+MAR03806,M00972,Proline metabolism
+MAR03807,,
+MAR03809,M00015,"Proline biosynthesis, glutamate => proline"
+MAR03809,M00972,Proline metabolism
+MAR03816,M00972,Proline metabolism
+MAR03819,M00972,Proline metabolism
+MAR03820,M00015,"Proline biosynthesis, glutamate => proline"
+MAR03832,M00015,"Proline biosynthesis, glutamate => proline"
+MAR03833,,
+MAR03835,,
+MAR03837,M00034,Methionine salvage pathway
+MAR03837,M00133,"Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"
+MAR03895,M00034,Methionine salvage pathway
+MAR03895,M00133,"Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"
+MAR03897,,
+MAR03956,,
+MAR03993,M00133,"Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"
+MAR04073,M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+MAR04075,M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+MAR04077,,
+MAR04190,M00133,"Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"
+MAR04191,M00047,Creatine pathway
+MAR04212,,
+MAR04422,,
+MAR04423,,
+MAR04424,,
+MAR04583,,
+MAR04605,,
+MAR04606,,
+MAR04607,,
+MAR04776,,
+MAR04777,,
+MAR04778,,
+MAR04779,,
+MAR04780,,
+MAR04781,M00034,Methionine salvage pathway
+MAR04784,,
+MAR04785,,
+MAR04786,,
+MAR04787,,
+MAR05384,,
+MAR06955,,
+MAR06958,M00028,"Ornithine biosynthesis, glutamate => ornithine"
+MAR06958,M00845,"Arginine biosynthesis, glutamate => acetylcitrulline => arginine"
+MAR06961,M00028,"Ornithine biosynthesis, glutamate => ornithine"
+MAR06965,M00029,Urea cycle
+MAR06965,M00134,"Polyamine biosynthesis, arginine => ornithine => putrescine"
+MAR08096,M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA"
+MAR08097,M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA"
+MAR08098,M00135,"GABA biosynthesis, eukaryotes, putrescine => GABA"
+MAR08416,,
+MAR08425,,
+MAR08426,M00015,"Proline biosynthesis, glutamate => proline"
+MAR08426,M00972,Proline metabolism
+MAR08603,,
+MAR08604,,
+MAR08605,M00027,GABA (gamma-Aminobutyrate) shunt
+MAR08606,M00532,Photorespiration
+MAR08608,M00532,Photorespiration
+MAR08609,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR08610,,
+MAR08611,M00020,"Serine biosynthesis, glycerate-3P => serine"
+MAR04285,M00020,"Serine biosynthesis, glycerate-3P => serine"
+MAR00457,M00020,"Serine biosynthesis, glycerate-3P => serine"
+MAR00460,M00140,"C1-unit interconversion, prokaryotes"
+MAR00460,M00141,"C1-unit interconversion, eukaryotes"
+MAR00460,M00346,"Formaldehyde assimilation, serine pathway"
+MAR00460,M00532,Photorespiration
+MAR00460,M00975,"Betaine degradation, bacteria, betaine => pyruvate"
+MAR03752,,
+MAR03770,,
+MAR03784,,
+MAR03839,,
+MAR03841,M00975,"Betaine degradation, bacteria, betaine => pyruvate"
+MAR03843,M00035,Methionine degradation
+MAR03845,,
+MAR03847,,
+MAR03852,,
+MAR03856,,
+MAR03860,M00570,"Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"
+MAR03883,,
+MAR03901,M00047,Creatine pathway
+MAR03939,M00555,"Betaine biosynthesis, choline => betaine"
+MAR03974,M00555,"Betaine biosynthesis, choline => betaine"
+MAR04198,M00555,"Betaine biosynthesis, choline => betaine"
+MAR04200,M00974,"Betaine metabolism, animals, betaine => glycine"
+MAR04284,M00974,"Betaine metabolism, animals, betaine => glycine"
+MAR04284,M00975,"Betaine degradation, bacteria, betaine => pyruvate"
+MAR04348,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR04466,M00532,Photorespiration
+MAR04582,M00140,"C1-unit interconversion, prokaryotes"
+MAR04582,M00141,"C1-unit interconversion, eukaryotes"
+MAR04582,M00346,"Formaldehyde assimilation, serine pathway"
+MAR04582,M00532,Photorespiration
+MAR04582,M00975,"Betaine degradation, bacteria, betaine => pyruvate"
+MAR04696,,
+MAR04697,,
+MAR04698,,
+MAR04699,,
+MAR04700,M00532,Photorespiration
+MAR04742,M00555,"Betaine biosynthesis, choline => betaine"
+MAR04788,M00018,"Threonine biosynthesis, aspartate => homoserine => threonine"
+MAR04792,M00018,"Threonine biosynthesis, aspartate => homoserine => threonine"
+MAR05392,,
+MAR05393,,
+MAR06409,,
+MAR07702,,
+MAR07703,M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+MAR08440,M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+MAR09718,M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+MAR09486,M00045,"Histidine degradation, histidine => N-formiminoglutamate => glutamate"
+MAR04428,,
+MAR04429,,
+MAR04430,,
+MAR04431,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR04437,M00030,"Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine"
+MAR04437,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR04437,M00960,"Lysine degradation, bacteria, L-lysine => D-lysine => succinate"
+MAR04658,M00030,"Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine"
+MAR04658,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR04658,M00960,"Lysine degradation, bacteria, L-lysine => D-lysine => succinate"
+MAR04660,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR04712,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR08783,M00030,"Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine"
+MAR08784,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR08786,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR04288,M00960,"Lysine degradation, bacteria, L-lysine => D-lysine => succinate"
+MAR04596,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR04597,,
+MAR04599,,
+MAR04667,,
+MAR04668,,
+MAR04737,,
+MAR04739,,
+MAR04740,,
+MAR06415,,
+MAR06975,,
+MAR06976,,
+MAR06977,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR06977,M00087,beta-Oxidation
+MAR06977,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR06977,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR06977,M00957,"Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"
+MAR06978,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR06978,M00087,beta-Oxidation
+MAR06978,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR06978,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR06978,M00957,"Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"
+MAR06979,M00087,beta-Oxidation
+MAR06979,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR06979,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR06979,M00373,Ethylmalonyl pathway
+MAR06979,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR06979,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR06979,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR06979,M00957,"Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"
+MAR06981,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR06982,,
+MAR06983,,
+MAR06984,,
+MAR06985,,
+MAR03164,,
+MAR03166,,
+MAR03885,,
+MAR04250,,
+MAR08092,,
+MAR08563,,
+MAR03935,,
+MAR04681,,
+MAR04682,,
+MAR04683,,
+MAR04685,,
+MAR04686,,
+MAR04687,,
+MAR04702,,
+MAR04703,,
+MAR04704,M00373,Ethylmalonyl pathway
+MAR04704,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR04704,M00376,3-Hydroxypropionate bi-cycle
+MAR04704,M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"
+MAR06988,M00373,Ethylmalonyl pathway
+MAR06988,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR06988,M00376,3-Hydroxypropionate bi-cycle
+MAR06988,M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"
+MAR07701,M00373,Ethylmalonyl pathway
+MAR07701,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR07701,M00376,3-Hydroxypropionate bi-cycle
+MAR07701,M00741,"Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"
+MAR08529,M00019,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine"
+MAR08529,M00119,"Pantothenate biosynthesis, valine/L-aspartate => pantothenate"
+MAR08537,M00019,"Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine"
+MAR08537,M00119,"Pantothenate biosynthesis, valine/L-aspartate => pantothenate"
+MAR08541,,
+MAR08542,,
+MAR03206,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR03208,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR03213,,
+MAR03215,,
+MAR03747,,
+MAR03744,,
+MAR03757,,
+MAR03761,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR03777,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR03778,,
+MAR03795,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR04797,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR06417,,
+MAR06419,,
+MAR06420,M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+MAR06420,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR06421,,
+MAR06422,,
+MAR06422,M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+MAR06422,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR06923,,
+MAR03765,M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+MAR03765,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR08088,,
+MAR08787,M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+MAR04214,M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+MAR04216,,
+MAR04218,,
+MAR04219,,
+MAR04220,,
+MAR04224,M00936,"Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin"
+MAR04224,M00962,"Psilocybin biosynthesis, tryptophan => psilocybin"
+MAR04224,M00981,"Geissoschizine biosynthesis, tryptophan => geissoschizine"
+MAR04225,,
+MAR04227,,
+MAR04231,,
+MAR04233,,
+MAR04235,,
+MAR04243,,
+MAR04244,,
+MAR04245,,
+MAR06707,M00024,"Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine"
+MAR06711,,
+MAR06713,,
+MAR06714,M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"
+MAR06715,M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"
+MAR06716,M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"
+MAR06717,M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"
+MAR06718,M00042,"Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"
+MAR06719,,
+MAR06725,,
+MAR06726,,
+MAR06727,,
+MAR06728,,
+MAR06729,,
+MAR06731,,
+MAR06741,,
+MAR06743,,
+MAR06745,,
+MAR06746,,
+MAR06747,,
+MAR06748,,
+MAR06749,,
+MAR06750,,
+MAR06751,,
+MAR06752,,
+MAR06753,,
+MAR06754,,
+MAR06755,,
+MAR06756,,
+MAR06757,,
+MAR06758,M00025,"Tyrosine biosynthesis, chorismate => HPP => tyrosine"
+MAR06758,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR06759,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR06760,,
+MAR06761,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR06762,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR06763,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR06764,M00044,"Tyrosine degradation, tyrosine => homogentisate"
+MAR06766,,
+MAR06767,M00039,"Monolignol biosynthesis, phenylalanine/tyrosine => monolignol"
+MAR06767,M00137,"Flavanone biosynthesis, phenylalanine => naringenin"
+MAR06768,,
+MAR06770,,
+MAR06771,M00935,Methanofuran biosynthesis
+MAR06772,,
+MAR06774,,
+MAR06776,,
+MAR06778,,
+MAR06782,,
+MAR06783,,
+MAR06784,,
+MAR06785,,
+MAR06786,,
+MAR06787,,
+MAR06788,,
+MAR06789,,
+MAR06790,,
+MAR06791,,
+MAR06802,M00878,"Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA"
+MAR06854,,
+MAR06874,,
+MAR06875,M00034,Methionine salvage pathway
+MAR06875,M00035,Methionine degradation
+MAR06875,M00368,"Ethylene biosynthesis, methionine => ethylene"
+MAR06875,M00609,"Cysteine biosynthesis, methionine => cysteine"
+MAR06875,M00953,"Mugineic acid biosynthesis, methionine => 3-epihydroxymugineic acid"
+MAR06876,M00035,Methionine degradation
+MAR06877,M00035,Methionine degradation
+MAR06877,M00338,"Cysteine biosynthesis, homocysteine + serine => cysteine"
+MAR06888,M00338,"Cysteine biosynthesis, homocysteine + serine => cysteine"
+MAR06888,M00609,"Cysteine biosynthesis, methionine => cysteine"
+MAR07628,,
+MAR07756,M00017,"Methionine biosynthesis, aspartate => homoserine => methionine"
+MAR08539,,
+MAR08794,,
+MAR08795,,
+MAR08796,,
+MAR03875,,
+MAR03877,,
+MAR03879,M00176,"Assimilatory sulfate reduction, sulfate => H2S"
+MAR03881,M00034,Methionine salvage pathway
+MAR03912,M00034,Methionine salvage pathway
+MAR03917,M00034,Methionine salvage pathway
+MAR03928,,
+MAR03995,M00034,Methionine salvage pathway
+MAR03996,,
+MAR04072,M00034,Methionine salvage pathway
+MAR04189,,
+MAR04302,,
+MAR04323,,
+MAR05381,,
+MAR05385,,
+MAR05386,,
+MAR05387,,
+MAR05388,,
+MAR05389,,
+MAR05390,,
+MAR05391,,
+MAR06515,,
+MAR06518,,
+MAR06519,,
+MAR06520,,
+MAR08066,,
+MAR08067,,
+MAR08068,,
+MAR08069,,
+MAR08683,M00118,"Glutathione biosynthesis, glutamate => glutathione"
+MAR08684,M00118,"Glutathione biosynthesis, glutamate => glutathione"
+MAR03868,,
+MAR03869,,
+MAR03889,,
+MAR03933,M00913,"Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate"
+MAR03937,M00119,"Pantothenate biosynthesis, valine/L-aspartate => pantothenate"
+MAR04116,,
+MAR04120,M00046,"Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"
+MAR04121,,
+MAR04175,,
+MAR04176,,
+MAR04324,,
+MAR04326,M00013,"Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"
+MAR04326,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR04326,M00376,3-Hydroxypropionate bi-cycle
+MAR04328,,
+MAR04329,,
+MAR04708,,
+MAR04078,,
+MAR04174,,
+MAR04330,,
+MAR04347,,
+MAR04425,,
+MAR04427,,
+MAR04688,,
+MAR04689,,
+MAR04735,,
+MAR07991,,
+MAR07128,,
+MAR07129,,
+MAR07130,,
+MAR07131,,
+MAR07132,,
+MAR07133,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR07134,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR07135,,
+MAR07136,,
+MAR07137,,
+MAR07139,,
+MAR07140,,
+MAR07141,M01036,"UDP-GalNAcA biosynthesis, UDP-GlcNAc => UDP-GalNAcA"
+MAR07620,,
+MAR03753,M00892,"UDP-GlcNAc biosynthesis, eukaryotes, Fru-6P => UDP-GlcNAc"
+MAR03753,M00909,"UDP-GlcNAc biosynthesis, prokaryotes, Fru-6P => UDP-GlcNAc"
+MAR03753,M00995,"UDP-MurNAc biosynthesis, Fru-6P => UDP-MurNAc"
+MAR03753,M01002,"UDP-GalNAc biosynthesis, Fru-6P => UDP-GalNAc"
+MAR03755,,
+MAR03759,M01003,"UDP-GlcNAc biosynthesis, GlcNAc => UDP-GlcNAc"
+MAR03763,M00922,"CMP-Neu5Ac biosynthesis, bacteria, UDP-GlcNAc => CMP-Neu5Ac"
+MAR03763,M00955,"CMP-Neu5Ac/Neu5Gc biosynthesis, animals, UDP-GlcNAc => CMP-Neu5Ac => CMP-Neu5Gc"
+MAR03773,,
+MAR03775,M00955,"CMP-Neu5Ac/Neu5Gc biosynthesis, animals, UDP-GlcNAc => CMP-Neu5Ac => CMP-Neu5Gc"
+MAR03785,M00955,"CMP-Neu5Ac/Neu5Gc biosynthesis, animals, UDP-GlcNAc => CMP-Neu5Ac => CMP-Neu5Gc"
+MAR03790,M00955,"CMP-Neu5Ac/Neu5Gc biosynthesis, animals, UDP-GlcNAc => CMP-Neu5Ac => CMP-Neu5Gc"
+MAR03792,,
+MAR03796,,
+MAR03823,M00955,"CMP-Neu5Ac/Neu5Gc biosynthesis, animals, UDP-GlcNAc => CMP-Neu5Ac => CMP-Neu5Gc"
+MAR06416,M00892,"UDP-GlcNAc biosynthesis, eukaryotes, Fru-6P => UDP-GlcNAc"
+MAR04158,,
+MAR04159,M00793,"dTDP-L-Rha biosynthesis, Glc-1P => dTDP-L-Rha"
+MAR04159,M01022,"dTDP-6-deoxy-L-Tal biosynthesis, Glc-1P => dTDP-6-deoxy-L-Tal"
+MAR04159,M01023,"dTDP-D-Fuc3NAc biosynthesis, Glc-1P => dTDP-D-Fuc3NAc"
+MAR04159,M01024,"dTDP-Qui3NAc biosynthesis, Glc-1P => dTDP-Qui3NAc"
+MAR04159,M01025,"dTDP-D-Fuc4NAc biosynthesis, Glc-1P => dTDP-D-Fuc4NAc"
+MAR04159,M01026,"dTDP-Qui4NAc biosynthesis, Glc-1P => dTDP-Qui4NAc"
+MAR04159,M01027,"dTDP-D-Fucf biosynthesis, Glc-1P => dTDP-D-Fucf"
+MAR04299,M00793,"dTDP-L-Rha biosynthesis, Glc-1P => dTDP-L-Rha"
+MAR04299,M01022,"dTDP-6-deoxy-L-Tal biosynthesis, Glc-1P => dTDP-6-deoxy-L-Tal"
+MAR04299,M01023,"dTDP-D-Fuc3NAc biosynthesis, Glc-1P => dTDP-D-Fuc3NAc"
+MAR04299,M01024,"dTDP-Qui3NAc biosynthesis, Glc-1P => dTDP-Qui3NAc"
+MAR04299,M01025,"dTDP-D-Fuc4NAc biosynthesis, Glc-1P => dTDP-D-Fuc4NAc"
+MAR04299,M01026,"dTDP-Qui4NAc biosynthesis, Glc-1P => dTDP-Qui4NAc"
+MAR04299,M01027,"dTDP-D-Fucf biosynthesis, Glc-1P => dTDP-D-Fucf"
+MAR04300,,
+MAR04494,M01002,"UDP-GalNAc biosynthesis, Fru-6P => UDP-GalNAc"
+MAR04524,,
+MAR04526,,
+MAR04527,,
+MAR04528,M00922,"CMP-Neu5Ac biosynthesis, bacteria, UDP-GlcNAc => CMP-Neu5Ac"
+MAR04528,M00955,"CMP-Neu5Ac/Neu5Gc biosynthesis, animals, UDP-GlcNAc => CMP-Neu5Ac => CMP-Neu5Gc"
+MAR04529,M00793,"dTDP-L-Rha biosynthesis, Glc-1P => dTDP-L-Rha"
+MAR04529,M01022,"dTDP-6-deoxy-L-Tal biosynthesis, Glc-1P => dTDP-6-deoxy-L-Tal"
+MAR04530,M00793,"dTDP-L-Rha biosynthesis, Glc-1P => dTDP-L-Rha"
+MAR04531,,
+MAR04532,,
+MAR04533,,
+MAR04534,,
+MAR04628,,
+MAR04629,,
+MAR04631,,
+MAR07696,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR07697,,
+MAR07698,,
+MAR08368,,
+MAR08373,,
+MAR08375,,
+MAR08376,,
+MAR08377,,
+MAR08674,,
+MAR08675,,
+MAR05130,,
+MAR05131,,
+MAR05132,,
+MAR05133,,
+MAR05134,,
+MAR05135,,
+MAR05136,,
+MAR05137,M00055,N-glycan precursor biosynthesis
+MAR05138,M00055,N-glycan precursor biosynthesis
+MAR05139,M00055,N-glycan precursor biosynthesis
+MAR05140,,
+MAR05141,M00055,N-glycan precursor biosynthesis
+MAR05142,M00055,N-glycan precursor biosynthesis
+MAR05143,M00055,N-glycan precursor biosynthesis
+MAR05144,,
+MAR05145,,
+MAR05146,,
+MAR05147,,
+MAR05148,,
+MAR05149,,
+MAR05150,,
+MAR07254,,
+MAR07256,,
+MAR07263,,
+MAR07264,,
+MAR07265,,
+MAR07266,,
+MAR07267,,
+MAR07268,,
+MAR07269,,
+MAR07270,M00376,3-Hydroxypropionate bi-cycle
+MAR07271,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR07271,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR07271,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR07619,,
+MAR07622,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR07622,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR07624,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR07624,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR07624,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR07626,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR07626,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR07626,M00012,Glyoxylate cycle
+MAR07626,M00168,"CAM (Crassulacean acid metabolism), dark"
+MAR07626,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR07626,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR07626,M00346,"Formaldehyde assimilation, serine pathway"
+MAR07626,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR07626,M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate"
+MAR07626,M00740,Methylaspartate cycle
+MAR07626,M00982,Methylcitrate cycle
+MAR05407,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR05407,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR05407,M00012,Glyoxylate cycle
+MAR05407,M00168,"CAM (Crassulacean acid metabolism), dark"
+MAR05407,M00171,"C4-dicarboxylic acid cycle, NAD - malic enzyme type"
+MAR05407,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR05407,M00346,"Formaldehyde assimilation, serine pathway"
+MAR05407,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR05407,M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate"
+MAR05407,M00740,Methylaspartate cycle
+MAR05407,M00982,Methylcitrate cycle
+MAR03851,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR03851,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR03851,M00012,Glyoxylate cycle
+MAR03851,M00740,Methylaspartate cycle
+MAR03861,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR03861,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR03866,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR04084,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR04084,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR04084,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR04084,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR04084,M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate"
+MAR04187,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR04187,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR04701,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR04701,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR04701,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR04701,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR04701,M00376,3-Hydroxypropionate bi-cycle
+MAR04701,M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate"
+MAR04701,M00982,Methylcitrate cycle
+MAR04840,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR04840,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR04840,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR04840,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR04840,M00376,3-Hydroxypropionate bi-cycle
+MAR04840,M00620,"Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate"
+MAR04840,M00982,Methylcitrate cycle
+MAR08662,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR08662,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR08663,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR08663,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR08663,M00012,Glyoxylate cycle
+MAR08663,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR08663,M00740,Methylaspartate cycle
+MAR08664,M00532,Photorespiration
+MAR08666,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR08666,M00010,"Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"
+MAR08666,M00012,Glyoxylate cycle
+MAR08666,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR08666,M00740,Methylaspartate cycle
+MAR00710,,
+MAR03787,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR03787,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR03787,M00149,"Succinate dehydrogenase, prokaryotes"
+MAR03787,M00150,"Fumarate reductase, prokaryotes"
+MAR03787,M00173,Reductive citrate cycle (Arnon-Buchanan cycle)
+MAR03787,M00374,Dicarboxylate-hydroxybutyrate cycle
+MAR03787,M00376,3-Hydroxypropionate bi-cycle
+MAR03787,M00982,Methylcitrate cycle
+MAR03957,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR03957,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR03958,M00009,"Citrate cycle (TCA cycle, Krebs cycle)"
+MAR03958,M00011,"Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"
+MAR04139,,
+MAR04141,,
+MAR04145,,
+MAR04147,,
+MAR04149,,
+MAR04152,,
+MAR04209,M00346,"Formaldehyde assimilation, serine pathway"
+MAR04408,M00346,"Formaldehyde assimilation, serine pathway"
+MAR04408,M00532,Photorespiration
+MAR04410,,
+MAR04454,,
+MAR04458,,
+MAR04465,M00532,Photorespiration
+MAR04589,M00532,Photorespiration
+MAR04652,,
+MAR04652,,
+MAR06413,,
+MAR06414,M00086,"beta-Oxidation, acyl-CoA synthesis"
+MAR08773,,
+MAR08774,M00082,"Fatty acid biosynthesis, initiation"
+MAR08774,M00083,"Fatty acid biosynthesis, elongation"
+MAR08775,M00083,"Fatty acid biosynthesis, elongation"
+MAR08777,M00083,"Fatty acid biosynthesis, elongation"
+MAR08778,M00083,"Fatty acid biosynthesis, elongation"
+MAR08779,M00083,"Fatty acid biosynthesis, elongation"
+MAR08781,M00083,"Fatty acid biosynthesis, elongation"
+MAR08782,M00083,"Fatty acid biosynthesis, elongation"
+MAR03977,M00083,"Fatty acid biosynthesis, elongation"
+MAR06912,M00083,"Fatty acid biosynthesis, elongation"
+MAR03960,M00083,"Fatty acid biosynthesis, elongation"
+MAR03980,M00083,"Fatty acid biosynthesis, elongation"
+MAR03982,M00083,"Fatty acid biosynthesis, elongation"
+MAR08409,M00083,"Fatty acid biosynthesis, elongation"
+MAR08410,M00083,"Fatty acid biosynthesis, elongation"
+MAR00156,M00083,"Fatty acid biosynthesis, elongation"
+MAR00217,M00083,"Fatty acid biosynthesis, elongation"
+MAR00409,M00083,"Fatty acid biosynthesis, elongation"
+MAR02152,M00083,"Fatty acid biosynthesis, elongation"
+MAR02153,M00083,"Fatty acid biosynthesis, elongation"
+MAR02154,M00083,"Fatty acid biosynthesis, elongation"
+MAR02155,M00083,"Fatty acid biosynthesis, elongation"
+MAR02156,M00083,"Fatty acid biosynthesis, elongation"
+MAR02157,M00083,"Fatty acid biosynthesis, elongation"
+MAR02158,M00083,"Fatty acid biosynthesis, elongation"
+MAR02159,M00083,"Fatty acid biosynthesis, elongation"
+MAR02160,M00083,"Fatty acid biosynthesis, elongation"
+MAR02161,M00083,"Fatty acid biosynthesis, elongation"
+MAR02162,M00083,"Fatty acid biosynthesis, elongation"
+MAR02163,M00082,"Fatty acid biosynthesis, initiation"
+MAR02163,M00375,Hydroxypropionate-hydroxybutylate cycle
+MAR02163,M00376,3-Hydroxypropionate bi-cycle
+MAR02163,M00885,"Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)"
+MAR02163,M00886,"Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)"
+MAR02164,,
+MAR02165,,
+MAR02166,,
+MAR02167,,
+MAR02168,M00082,"Fatty acid biosynthesis, initiation"
+MAR02169,M00082,"Fatty acid biosynthesis, initiation"
+MAR02169,M00885,"Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)"
+MAR02169,M00886,"Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)"
+MAR02170,M00838,"Undecylprodigiosin biosynthesis, L-proline => undecylprodigiosin"
+MAR02171,,
+MAR02173,,
+MAR02174,,
+MAR02175,,
+MAR02176,,
+MAR02178,,
+MAR02179,,
+MAR02180,,
+MAR02181,,
+MAR04295,,
+MAR02190,,
+MAR02191,,
+MAR02193,,
+MAR02194,,
+MAR02150,,
+MAR02151,,
+MAR02172,,
+MAR02177,,
+MAR02182,,
+MAR02437,,
+MAR02439,,
+MAR02440,,
+MAR02455,,
+MAR02457,,
+MAR02459,,
+MAR06402,,
+MAR06402,,
+MAR06403,,
+MAR06403,,
+MAR06404,,
+MAR02368,,
+MAR00934,,
+MAR00937,,
+MAR00940,,
+MAR00942,,
+MAR00945,,
+MAR00946,,
+MAR00949,,
+MAR00950,,
+MAR00953,,
+MAR00954,,
+MAR00957,,
+MAR00958,,
+MAR00959,,
+MAR00960,,
+MAR00963,,
+MAR00983,,
+MAR00988,,
+MAR00989,,
+MAR00990,,
+MAR00991,,
+MAR00992,,
+MAR00993,,
+MAR00994,,
+MAR01010,,
+MAR01020,,
+MAR01025,,
+MAR01029,,
+MAR01030,,
+MAR01041,,
+MAR01042,,
+MAR01043,,
+MAR01045,,
+MAR01062,,
+MAR01064,,
+MAR01080,,
+MAR01081,,
+MAR01085,,
+MAR01100,,
+MAR01101,,
+MAR01102,,
+MAR01126,,
+MAR01127,,
+MAR01137,,
+MAR04796,,
+MAR08545,,
+MAR08546,,
+MAR08549,,
+MAR08552,,
+MAR00223,,
+MAR00250,,
+MAR00284,,
+MAR00294,,
+MAR00314,,
+MAR00320,,
+MAR00332,,
+MAR00338,,
+MAR00350,,
+MAR00362,,
+MAR00366,,
+MAR00378,,
+MAR00382,,
+MAR00398,,
+MAR00402,,
+MAR00406,,
+MAR00410,M00098,Acylglycerol degradation
+MAR00414,M00098,Acylglycerol degradation
+MAR00430,M00098,Acylglycerol degradation
+MAR00434,,
+MAR03477,,
+MAR02591,,
+MAR02599,M00089,Triacylglycerol biosynthesis
+MAR02626,M00098,Acylglycerol degradation
+MAR02636,M00098,Acylglycerol degradation
+MAR02742,M00098,Acylglycerol degradation
+MAR02755,M00098,Acylglycerol degradation
+MAR03032,M00098,Acylglycerol degradation
+MAR00163,M00098,Acylglycerol degradation
+MAR02593,M00098,Acylglycerol degradation
+MAR02601,M00098,Acylglycerol degradation
+MAR02630,M00098,Acylglycerol degradation
+MAR02640,M00098,Acylglycerol degradation
+MAR02758,M00098,Acylglycerol degradation
+MAR00002,M00098,Acylglycerol degradation
+MAR00003,M00098,Acylglycerol degradation
+MAR00005,,
+MAR00449,,
+MAR00449,,
+MAR00604,M00087,beta-Oxidation
+MAR00605,M00085,Fatty acid elongation in mitochondria
+MAR00605,M00087,beta-Oxidation
+MAR00665,M00085,Fatty acid elongation in mitochondria
+MAR00665,M00087,beta-Oxidation
+MAR00667,M00085,Fatty acid elongation in mitochondria
+MAR00667,M00087,beta-Oxidation
+MAR00668,M00087,beta-Oxidation
+MAR00669,M00085,Fatty acid elongation in mitochondria
+MAR00669,M00087,beta-Oxidation
+MAR00670,M00085,Fatty acid elongation in mitochondria
+MAR00670,M00087,beta-Oxidation
+MAR00671,M00085,Fatty acid elongation in mitochondria
+MAR00671,M00087,beta-Oxidation
+MAR00672,M00087,beta-Oxidation
+MAR00679,M00085,Fatty acid elongation in mitochondria
+MAR00679,M00087,beta-Oxidation
+MAR00680,M00085,Fatty acid elongation in mitochondria
+MAR00680,M00087,beta-Oxidation
+MAR00681,M00085,Fatty acid elongation in mitochondria
+MAR00681,M00087,beta-Oxidation
+MAR00682,M00087,beta-Oxidation
+MAR00683,M00085,Fatty acid elongation in mitochondria
+MAR00683,M00087,beta-Oxidation
+MAR00684,M00085,Fatty acid elongation in mitochondria
+MAR00684,M00087,beta-Oxidation
+MAR07588,M00085,Fatty acid elongation in mitochondria
+MAR07588,M00087,beta-Oxidation
+MAR03480,M00087,beta-Oxidation
+MAR03116,M00085,Fatty acid elongation in mitochondria
+MAR03116,M00087,beta-Oxidation
+MAR03121,M00085,Fatty acid elongation in mitochondria
+MAR03121,M00087,beta-Oxidation
+MAR03122,M00085,Fatty acid elongation in mitochondria
+MAR03122,M00087,beta-Oxidation
+MAR03123,M00087,beta-Oxidation
+MAR03125,M00085,Fatty acid elongation in mitochondria
+MAR03125,M00087,beta-Oxidation
+MAR03128,M00085,Fatty acid elongation in mitochondria
+MAR03128,M00087,beta-Oxidation
+MAR03129,M00085,Fatty acid elongation in mitochondria
+MAR03129,M00087,beta-Oxidation
+MAR03130,,
+MAR03132,,
+MAR03135,,
+MAR03136,,
+MAR03137,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR03137,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR03137,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR03139,,
+MAR03142,,
+MAR03143,,
+MAR03144,,
+MAR03146,,
+MAR03149,,
+MAR03150,,
+MAR03151,,
+MAR03153,,
+MAR03156,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR03157,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR03158,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR03160,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR03205,,
+MAR03272,,
+MAR03239,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR03288,,
+MAR01573,,
+MAR06901,M00108,"C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone"
+MAR06903,,
+MAR07166,,
+MAR07167,,
+MAR07168,,
+MAR07169,,
+MAR07170,,
+MAR09722,,
+MAR01920,,
+MAR01927,,
+MAR01928,,
+MAR01929,,
+MAR01932,,
+MAR01933,M00043,"Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine"
+MAR01934,M00043,"Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine"
+MAR01935,M00043,"Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine"
+MAR01940,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR01941,M00977,"C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"
+MAR01942,,
+MAR01943,,
+MAR01948,,
+MAR01949,,
+MAR01950,,
+MAR01951,M00976,"C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"
+MAR01989,M00976,"C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"
+MAR01990,,
+MAR01991,M00977,"C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"
+MAR01992,,
+MAR01993,,
+MAR02002,,
+MAR02003,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR02003,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR06793,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR06793,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR06794,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR06795,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR06795,M00096,"C5 isoprenoid biosynthesis, non-mevalonate pathway"
+MAR06795,M00364,"C10-C20 isoprenoid biosynthesis, bacteria"
+MAR06795,M00365,"C10-C20 isoprenoid biosynthesis, archaea"
+MAR06795,M00366,"C10-C20 isoprenoid biosynthesis, plants"
+MAR06795,M00367,"C10-C20 isoprenoid biosynthesis, non-plant eukaryotes"
+MAR06795,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR07930,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR07930,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR07930,M01038,"Staphyloxanthin biosynthesis, bacteria, farnesyl-PP => staphyloxanthin"
+MAR07973,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR07973,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR07976,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR07976,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01952,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01952,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01953,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01953,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01958,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01958,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01967,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01967,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01969,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01969,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01973,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01973,M00102,"Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"
+MAR01976,,
+MAR01978,,
+MAR01982,,
+MAR02014,,
+MAR02016,,
+MAR02018,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01440,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01445,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01448,,
+MAR01454,,
+MAR01465,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01467,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR01467,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR01467,M00849,"C5 isoprenoid biosynthesis, mevalonate pathway, archaea"
+MAR01470,M00095,"C5 isoprenoid biosynthesis, mevalonate pathway"
+MAR01473,M00364,"C10-C20 isoprenoid biosynthesis, bacteria"
+MAR01473,M00365,"C10-C20 isoprenoid biosynthesis, archaea"
+MAR01473,M00366,"C10-C20 isoprenoid biosynthesis, plants"
+MAR01473,M00367,"C10-C20 isoprenoid biosynthesis, non-plant eukaryotes"
+MAR01473,M00921,"Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin"
+MAR01479,M00364,"C10-C20 isoprenoid biosynthesis, bacteria"
+MAR01479,M00365,"C10-C20 isoprenoid biosynthesis, archaea"
+MAR01479,M00366,"C10-C20 isoprenoid biosynthesis, plants"
+MAR01479,M00367,"C10-C20 isoprenoid biosynthesis, non-plant eukaryotes"
+MAR01479,M00921,"Cyclooctatin biosynthesis, dimethylallyl-PP + isopentenyl-PP => cyclooctatin"
+MAR01484,M00101,"Cholesterol biosynthesis, FPP => cholesterol"
+MAR01490,,
+MAR01495,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR01495,M00088,"Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"
+MAR01500,M00110,"C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"
+MAR01512,M00110,"C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"
+MAR01516,,
+MAR01519,,
+MAR01526,,
+MAR01533,,
+MAR01557,,
+MAR01558,,
+MAR01565,,
+MAR01535,,
+MAR01540,,
+MAR01553,,
+MAR01437,,
+MAR01451,,
+MAR01457,M00094,Ceramide biosynthesis
+MAR01457,M00099,Sphingosine biosynthesis
+MAR01460,M00094,Ceramide biosynthesis
+MAR01460,M00099,Sphingosine biosynthesis
+MAR01570,,
+MAR01576,,
+MAR01577,,
+MAR02032,,
+MAR02034,,
+MAR02036,,
+MAR02037,M00066,Lactosylceramide biosynthesis
+MAR02038,,
+MAR02042,,
+MAR02044,M00100,Sphingosine degradation
+MAR02045,,
+MAR02053,M00100,Sphingosine degradation
+MAR02055,,
+MAR02058,,
+MAR00715,,
+MAR00716,,
+MAR00736,,
+MAR00738,,
+MAR00741,,
+MAR00744,M00089,Triacylglycerol biosynthesis
+MAR00746,M00089,Triacylglycerol biosynthesis
+MAR00748,,
+MAR00753,,
+MAR00758,,
+MAR00760,,
+MAR00761,,
+MAR00762,,
+MAR00767,,
+MAR00773,,
+MAR00775,,
+MAR00779,,
+MAR00781,,
+MAR00783,,
+MAR00795,,
+MAR00453,,
+MAR00456,M00089,Triacylglycerol biosynthesis
+MAR00458,M00089,Triacylglycerol biosynthesis
+MAR00459,,
+MAR00588,M00089,Triacylglycerol biosynthesis
+MAR00596,M00089,Triacylglycerol biosynthesis
+MAR00673,M00089,Triacylglycerol biosynthesis
+MAR00674,M00089,Triacylglycerol biosynthesis
+MAR00675,M00089,Triacylglycerol biosynthesis
+MAR00676,M00089,Triacylglycerol biosynthesis
+MAR00677,M00089,Triacylglycerol biosynthesis
+MAR00678,M00089,Triacylglycerol biosynthesis
+MAR04296,M00089,Triacylglycerol biosynthesis
+MAR04390,M00089,Triacylglycerol biosynthesis
+MAR07599,M00089,Triacylglycerol biosynthesis
+MAR00448,M00089,Triacylglycerol biosynthesis
+MAR00450,,
+MAR00479,M00092,"Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"
+MAR00479,M00092,"Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"
+MAR00484,M00093,"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"
+MAR00579,,
+MAR00580,,
+MAR00586,M00093,"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"
+MAR00589,,
+MAR00590,,
+MAR00591,,
+MAR00592,,
+MAR00593,,
+MAR00594,,
+MAR00597,M00090,"Phosphatidylcholine (PC) biosynthesis, choline => PC"
+MAR00598,M00090,"Phosphatidylcholine (PC) biosynthesis, choline => PC"
+MAR00599,,
+MAR00600,,
+MAR00601,,
+MAR00602,,
+MAR00610,,
+MAR00614,,
+MAR00615,,
+MAR00616,,
+MAR00622,M00092,"Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"
+MAR00623,,
+MAR00627,M00092,"Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"
+MAR00629,M00091,"Phosphatidylcholine (PC) biosynthesis, PE => PC"
+MAR00630,M00091,"Phosphatidylcholine (PC) biosynthesis, PE => PC"
+MAR00632,M00091,"Phosphatidylcholine (PC) biosynthesis, PE => PC"
+MAR00633,,
+MAR00634,,
+MAR00635,,
+MAR00636,,
+MAR00638,,
+MAR00640,,
+MAR00641,,
+MAR00642,,
+MAR00643,M00344,"Formaldehyde assimilation, xylulose monophosphate pathway"
+MAR00644,,
+MAR00645,,
+MAR00646,,
+MAR00647,,
+MAR00648,,
+MAR00649,,
+MAR00651,,
+MAR00653,,
+MAR00654,,
+MAR00657,,
+MAR04627,,
+MAR04838,,
+MAR04839,,
+MAR07591,,
+MAR07601,M00069,"Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3"
+MAR07611,,
+MAR07612,,
+MAR07613,,
+MAR07755,,
+MAR08421,,
+MAR08424,,
+MAR08518,,
+MAR08519,,
+MAR08521,,
+MAR09805,M00069,"Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3"
+MAR00815,,
+MAR00816,,
+MAR00817,,
+MAR00819,,
+MAR00820,,
+MAR00821,,
+MAR00822,,
+MAR00823,,
+MAR00824,,
+MAR00825,,
+MAR00827,,
+MAR00828,,
+MAR00829,,
+MAR00830,M00069,"Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3"
+MAR00837,,
+MAR00838,,
+MAR00839,,
+MAR00840,M00068,"Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer"
+MAR00841,,
+MAR00842,M00068,"Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer"
+MAR00843,,
+MAR00844,,
+MAR00845,,
+MAR00846,,
+MAR00847,,
+MAR00848,,
+MAR00849,M00070,"Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer"
+MAR00849,M00071,"Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"
+MAR00850,M00070,"Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer"
+MAR00851,,
+MAR00852,,
+MAR00853,,
+MAR00854,,
+MAR00855,,
+MAR00856,,
+MAR00857,,
+MAR00858,,
+MAR00801,,
+MAR00803,,
+MAR00805,,
+MAR00807,M00071,"Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"
+MAR00809,,
+MAR00810,,
+MAR00811,,
+MAR00812,,
+MAR00813,,
+MAR00859,,
+MAR00860,,
+MAR00861,,
+MAR00862,,
+MAR00863,,
+MAR00864,,
+MAR00865,,
+MAR00866,,
+MAR00867,,
+MAR00868,,
+MAR00870,,
+MAR00871,,
+MAR00873,,
+MAR00875,,
+MAR00876,,
+MAR00877,,
+MAR00878,,
+MAR00879,,
+MAR00880,,
+MAR00881,,
+MAR00882,,
+MAR00883,,
+MAR00884,,
+MAR00885,,
+MAR00886,,
+MAR00887,,
+MAR00888,,
+MAR00889,,
+MAR00890,,
+MAR00891,,
+MAR00892,,
+MAR00893,,
+MAR00894,,
+MAR00895,,
+MAR00896,M00067,"Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid"
+MAR00897,,
+MAR00898,M00066,Lactosylceramide biosynthesis
+MAR00899,,
+MAR00900,M00065,"GPI-anchor biosynthesis, core oligosaccharide"
+MAR00901,M00065,"GPI-anchor biosynthesis, core oligosaccharide"
+MAR00902,M00065,"GPI-anchor biosynthesis, core oligosaccharide"
+MAR00903,M00107,"Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"
+MAR00904,,
+MAR00905,M00109,"C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"
+MAR00906,M00109,"C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"
+MAR00907,,
+MAR00908,,
+MAR00909,,
+MAR00910,,
+MAR00911,,
+MAR00912,,
+MAR00794,,
+MAR00915,,
+MAR00919,,
+MAR00924,,
+MAR00926,,
+MAR08378,,
+MAR08379,,
+MAR08380,,
+MAR08381,,
+MAR01979,,
+MAR01985,,
+MAR01995,,
+MAR01996,,
+MAR01312,,
+MAR01317,,
+MAR01318,,
+MAR01321,,
+MAR01322,,
+MAR01323,,
+MAR01325,,
+MAR01326,,
+MAR01327,,
+MAR01328,,
+MAR01329,,
+MAR01330,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01332,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01336,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01346,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01373,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01374,,
+MAR01401,,
+MAR07598,,
+MAR07600,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR07602,,
+MAR07603,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR07604,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR07605,M00106,"Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate"
+MAR07606,M00106,"Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate"
+MAR07607,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR07610,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR07614,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR07615,,
+MAR08643,,
+MAR01595,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01598,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01599,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01604,,
+MAR01605,,
+MAR01608,,
+MAR01609,,
+MAR01611,,
+MAR01614,,
+MAR01620,,
+MAR01627,,
+MAR01660,,
+MAR01668,,
+MAR01670,,
+MAR01673,M00104,"Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"
+MAR01676,,
+MAR01678,,
+MAR01684,,
+MAR01692,,
+MAR01693,,
+MAR01697,,
+MAR01718,,
+MAR01722,,
+MAR01723,,
+MAR01726,,
+MAR01735,M00038,"Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"
+MAR01735,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR01762,M00115,"NAD biosynthesis, aspartate => quinolinate => NAD"
+MAR01762,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR01765,,
+MAR01784,,
+MAR01786,,
+MAR01797,,
+MAR01798,M00115,"NAD biosynthesis, aspartate => quinolinate => NAD"
+MAR01798,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR01800,,
+MAR01802,M00115,"NAD biosynthesis, aspartate => quinolinate => NAD"
+MAR01802,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR01803,M00115,"NAD biosynthesis, aspartate => quinolinate => NAD"
+MAR01803,M00912,"NAD biosynthesis, tryptophan => quinolinate => NAD"
+MAR01806,,
+MAR01834,,
+MAR01838,,
+MAR01843,,
+MAR03908,,
+MAR03910,,
+MAR03911,,
+MAR04679,,
+MAR08065,,
+MAR03992,,
+MAR04228,,
+MAR04251,,
+MAR04252,,
+MAR04253,,
+MAR04254,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR04255,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR04257,,
+MAR04259,,
+MAR04260,,
+MAR04261,,
+MAR04262,,
+MAR04268,,
+MAR04269,,
+MAR04270,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR04662,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR04662,M00914,"Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA"
+MAR07142,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR07142,M00914,"Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA"
+MAR07143,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR07143,M00914,"Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA"
+MAR07623,,
+MAR07625,,
+MAR07627,,
+MAR07676,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR07676,M00914,"Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA"
+MAR07677,M00120,"Coenzyme A biosynthesis, pantothenate => CoA"
+MAR07677,M00914,"Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA"
+MAR07678,,
+MAR08788,M00994,"UDP-GlcA biosynthesis, myo-inositol => GlcA => UDP-GlcA"
+MAR03871,,
+MAR04058,,
+MAR04498,,
+MAR04499,,
+MAR04500,M00130,"Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"
+MAR04714,M00130,"Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"
+MAR04715,,
+MAR04716,,
+MAR04717,,
+MAR04718,M00130,"Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"
+MAR04723,,
+MAR04725,,
+MAR04727,,
+MAR04730,,
+MAR04731,,
+MAR04732,,
+MAR04733,M00130,"Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"
+MAR04734,,
+MAR08792,,
+MAR04308,,
+MAR06539,M00130,"Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"
+MAR06540,,
+MAR06542,M00131,"Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"
+MAR06543,,
+MAR06544,M00132,"Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"
+MAR06546,M00132,"Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"
+MAR06547,M00131,"Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"
+MAR06548,M00131,"Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"
+MAR06549,M00131,"Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"
+MAR06550,,
+MAR06551,,
+MAR06552,,
+MAR06553,,
+MAR06554,M00132,"Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"
+MAR06555,,
+MAR06556,,
+MAR06557,,
+MAR06559,,
+MAR06560,,
+MAR06561,,
+MAR06562,,
+MAR06563,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR06563,M00840,"Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF"
+MAR06563,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR06564,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR06564,M00840,"Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF"
+MAR06564,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR06565,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR06565,M00840,"Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF"
+MAR06565,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR06566,,
+MAR06567,M00140,"C1-unit interconversion, prokaryotes"
+MAR06567,M00141,"C1-unit interconversion, eukaryotes"
+MAR06567,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06568,M00140,"C1-unit interconversion, prokaryotes"
+MAR06568,M00141,"C1-unit interconversion, eukaryotes"
+MAR06568,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06569,M00141,"C1-unit interconversion, eukaryotes"
+MAR06570,M00140,"C1-unit interconversion, prokaryotes"
+MAR06570,M00141,"C1-unit interconversion, eukaryotes"
+MAR06570,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06571,M00140,"C1-unit interconversion, prokaryotes"
+MAR06571,M00141,"C1-unit interconversion, eukaryotes"
+MAR06571,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06572,,
+MAR06573,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06574,M00140,"C1-unit interconversion, prokaryotes"
+MAR06574,M00141,"C1-unit interconversion, eukaryotes"
+MAR06574,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06575,M00140,"C1-unit interconversion, prokaryotes"
+MAR06575,M00141,"C1-unit interconversion, eukaryotes"
+MAR06575,M00377,Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)
+MAR06576,,
+MAR07652,,
+MAR07655,,
+MAR07656,,
+MAR08802,,
+MAR03925,,
+MAR03929,M00880,"Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+MAR03972,M00880,"Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+MAR04332,M00880,"Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"
+MAR04333,,
+MAR04335,,
+MAR04336,,
+MAR04338,,
+MAR04340,M00141,"C1-unit interconversion, eukaryotes"
+MAR04440,,
+MAR04442,,
+MAR04444,,
+MAR04446,,
+MAR04448,,
+MAR04503,,
+MAR04505,,
+MAR04654,,
+MAR04655,,
+MAR04656,M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4"
+MAR04656,M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+MAR04665,M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4"
+MAR09726,,
+MAR04666,,
+MAR07145,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR07145,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR07145,M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4"
+MAR07145,M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+MAR07145,M00988,"PreQ1 biosynthesis, GTP => 7-Aminomethyl-7-deazaguanine"
+MAR07146,,
+MAR07147,,
+MAR07908,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR07909,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR07909,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR07909,M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4"
+MAR07909,M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+MAR07909,M00988,"PreQ1 biosynthesis, GTP => 7-Aminomethyl-7-deazaguanine"
+MAR08132,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR08132,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR08132,M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4"
+MAR08132,M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+MAR08132,M00988,"PreQ1 biosynthesis, GTP => 7-Aminomethyl-7-deazaguanine"
+MAR08143,M00126,"Tetrahydrofolate biosynthesis, GTP => THF"
+MAR08143,M00841,"Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"
+MAR08143,M00842,"Tetrahydrobiopterin biosynthesis, GTP => BH4"
+MAR08143,M00843,"L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"
+MAR08143,M00988,"PreQ1 biosynthesis, GTP => 7-Aminomethyl-7-deazaguanine"
+MAR08144,,
+MAR08758,,
+MAR07661,,
+MAR07663,,
+MAR07668,,
+MAR07670,,
+MAR07671,,
+MAR07672,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR07672,M00846,"Siroheme biosynthesis, glutamyl-tRNA => siroheme"
+MAR07672,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR07672,M00926,"Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"
+MAR07673,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR07673,M00846,"Siroheme biosynthesis, glutamyl-tRNA => siroheme"
+MAR07673,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR07673,M00926,"Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"
+MAR04160,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR04160,M00846,"Siroheme biosynthesis, glutamyl-tRNA => siroheme"
+MAR04160,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR04160,M00926,"Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"
+MAR04163,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR04163,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR04163,M00926,"Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"
+MAR04165,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR04165,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR04166,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR04166,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR04167,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR04167,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR04169,,
+MAR04523,,
+MAR04543,,
+MAR04816,,
+MAR04817,,
+MAR04833,,
+MAR04835,,
+MAR08538,,
+MAR08349,,
+MAR08620,,
+MAR08621,,
+MAR08622,,
+MAR08623,,
+MAR03991,,
+MAR04657,,
+MAR04744,,
+MAR04746,,
+MAR04748,,
+MAR04750,,
+MAR04752,,
+MAR04755,,
+MAR04757,,
+MAR04762,M00125,"Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD"
+MAR04762,M00911,"Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD"
+MAR04763,,
+MAR04764,M00125,"Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD"
+MAR04764,M00911,"Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD"
+MAR04771,,
+MAR04772,,
+MAR08634,,
+MAR09717,,
+MAR06630,M00037,"Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"
+MAR06631,M00037,"Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"
+MAR06631,M00936,"Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin"
+MAR06635,M00037,"Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"
+MAR06635,M00936,"Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin"
+MAR06637,,
+MAR06638,,
+MAR06639,,
+MAR06644,,
+MAR06646,,
+MAR06651,,
+MAR06657,,
+MAR06671,,
+MAR06700,,
+MAR08697,M00897,"Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP"
+MAR08697,M00898,"Thiamine biosynthesis, pyridoxal-5P => TMP/thiamine/TPP"
+MAR08700,,
+MAR08709,,
+MAR08711,,
+MAR06506,,
+MAR06507,M00307,"Pyruvate oxidation, pyruvate => acetyl-CoA"
+MAR06508,M00897,"Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP"
+MAR06508,M00898,"Thiamine biosynthesis, pyridoxal-5P => TMP/thiamine/TPP"
+MAR06509,,
+MAR06510,,
+MAR06511,,
+MAR04537,,
+MAR04545,,
+MAR04546,,
+MAR04547,M00124,"Pyridoxal phosphate biosynthesis, erythrose-4P => pyridoxal-P"
+MAR04548,,
+MAR04550,,
+MAR04555,,
+MAR04556,,
+MAR04557,,
+MAR04558,,
+MAR04559,,
+MAR04560,M00103,Cholecalciferol biosynthesis
+MAR04564,M00103,Cholecalciferol biosynthesis
+MAR04204,M00103,Cholecalciferol biosynthesis
+MAR04206,M00103,Cholecalciferol biosynthesis
+MAR04207,M00103,Cholecalciferol biosynthesis
+MAR04208,,
+MAR08744,,
+MAR08746,,
+MAR08748,,
+MAR08613,,
+MAR08615,,
+MAR08616,,
+MAR04064,,
+MAR04065,,
+MAR04066,,
+MAR04067,,
+MAR04068,,
+MAR04069,,
+MAR04070,,
+MAR04071,,
+MAR08102,,
+MAR08724,,
+MAR08725,,
+MAR02114,,
+MAR02115,,
+MAR02117,,
+MAR02118,,
+MAR08008,,
+MAR06992,,
+MAR06993,,
+MAR06994,,
+MAR06995,,
+MAR06996,,
+MAR06997,,
+MAR06998,,
+MAR06999,,
+MAR07000,,
+MAR07001,,
+MAR07002,,
+MAR07003,,
+MAR07004,,
+MAR07005,,
+MAR07006,,
+MAR07007,,
+MAR07008,,
+MAR07009,,
+MAR07010,,
+MAR07011,,
+MAR07012,,
+MAR07013,,
+MAR07014,,
+MAR07015,,
+MAR07016,,
+MAR07017,,
+MAR07018,,
+MAR07019,,
+MAR07020,,
+MAR07021,,
+MAR07022,,
+MAR07023,,
+MAR07024,,
+MAR07025,,
+MAR07026,,
+MAR07027,,
+MAR07028,,
+MAR07029,,
+MAR07030,,
+MAR07031,,
+MAR07032,,
+MAR07033,,
+MAR07034,,
+MAR07035,,
+MAR07036,,
+MAR07037,,
+MAR07038,,
+MAR07039,,
+MAR07040,,
+MAR07041,,
+MAR07042,,
+MAR07043,,
+MAR07044,,
+MAR07045,,
+MAR07046,,
+MAR07047,,
+MAR07048,,
+MAR07049,,
+MAR07050,,
+MAR07051,,
+MAR07052,,
+MAR07053,,
+MAR07054,,
+MAR07055,,
+MAR07056,,
+MAR07057,,
+MAR07058,,
+MAR07059,,
+MAR07060,,
+MAR07061,,
+MAR07062,,
+MAR07063,,
+MAR07064,,
+MAR07065,,
+MAR07066,,
+MAR07067,,
+MAR07068,,
+MAR07069,,
+MAR07070,,
+MAR07071,,
+MAR07072,,
+MAR07073,,
+MAR07074,,
+MAR07075,,
+MAR07076,,
+MAR07077,,
+MAR07078,,
+MAR07079,,
+MAR07080,,
+MAR07081,,
+MAR07082,,
+MAR07083,,
+MAR07084,,
+MAR07085,,
+MAR07086,,
+MAR07087,,
+MAR07088,,
+MAR07089,,
+MAR07090,,
+MAR07091,,
+MAR07092,,
+MAR07093,,
+MAR07094,,
+MAR07095,,
+MAR07096,,
+MAR07097,,
+MAR07098,,
+MAR07099,,
+MAR07100,,
+MAR07103,,
+MAR07104,,
+MAR07106,,
+MAR08038,,
+MAR06535,,
+MAR09569,,
+MAR03955,,
+MAR04201,,
+MAR04202,,
+MAR05363,,
+MAR08617,,
+MAR07741,,
+MAR09464,,
+MAR09465,,
+MAR09470,,
+MAR09471,,
+MAR09484,,
+MAR09485,,
+MAR09487,,
+MAR09488,,
+MAR09489,,
+MAR09490,,
+MAR09491,,
+MAR09492,,
+MAR09493,,
+MAR09494,,
+MAR09495,,
+MAR09496,,
+MAR09497,,
+MAR09498,,
+MAR09499,,
+MAR09500,,
+MAR09501,,
+MAR09503,,
+MAR09504,,
+MAR09505,,
+MAR09506,,
+MAR09507,,
+MAR09508,,
+MAR09509,,
+MAR09510,,
+MAR09511,,
+MAR09512,,
+MAR09513,,
+MAR09514,,
+MAR09515,,
+MAR09516,,
+MAR09517,,
+MAR09518,,
+MAR09519,,
+MAR09520,,
+MAR09521,,
+MAR09522,,
+MAR09523,,
+MAR09524,,
+MAR09525,,
+MAR09527,,
+MAR09528,,
+MAR09529,,
+MAR09530,M00028,"Ornithine biosynthesis, glutamate => ornithine"
+MAR09530,M00845,"Arginine biosynthesis, glutamate => acetylcitrulline => arginine"
+MAR09531,M00532,Photorespiration
+MAR09532,,
+MAR09534,,
+MAR09535,,
+MAR09536,,
+MAR09537,,
+MAR09538,,
+MAR09539,,
+MAR09541,,
+MAR09542,,
+MAR09543,,
+MAR09544,,
+MAR09545,,
+MAR09546,,
+MAR09547,,
+MAR09548,M00098,Acylglycerol degradation
+MAR09549,M00098,Acylglycerol degradation
+MAR09550,M00098,Acylglycerol degradation
+MAR09551,,
+MAR09552,M00157,"F-type ATPase, prokaryotes and chloroplasts"
+MAR09552,M00158,"F-type ATPase, eukaryotes"
+MAR09552,M00159,"V/A-type ATPase, prokaryotes"
+MAR09552,M00160,"V-type ATPase, eukaryotes"
+MAR09801,,
+MAR09807,,
+MAR09554,,
+MAR09555,M00093,"Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"
+MAR09556,M00121,"Heme biosynthesis, plants and bacteria, glutamate => heme"
+MAR09556,M00868,"Heme biosynthesis, animals and fungi, glycine => heme"
+MAR09557,,
+MAR09558,,
+MAR09559,,
+MAR09560,,
+MAR09561,,
+MAR09562,,
+MAR09563,,
+MAR09564,,
+MAR09565,M00546,"Purine degradation, xanthine => urea"
+MAR09567,,
+MAR09570,,
+MAR09571,,
+MAR09572,M00632,"Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"
+MAR09575,,
+MAR09798,,
+MAR09806,M00538,"Toluene degradation, toluene => benzoate"
+MAR00010,,
+MAR00007,M01047,"Juvenile hormone biosynthesis, insects, farnesyl-PP => juvenile hormone III"
+MAR00008,,
+MAR01919,,
+MAR03964,,
+MAR02141,M00012,Glyoxylate cycle
+MAR04184,,
+MAR06328,M00032,"Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"
+MAR00121,,
+MAR01044,,
+MAR01169,M00036,"Leucine degradation, leucine => acetoacetate + acetyl-CoA"
+MAR01169,,
+MAR08971,,
