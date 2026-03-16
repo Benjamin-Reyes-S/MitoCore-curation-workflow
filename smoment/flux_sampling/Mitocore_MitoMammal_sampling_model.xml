@@ -53295,9 +53295,9 @@
       <groups:group metaid="meta_G_Glycolysis" sboTerm="SBO:0000633" groups:id="G_Glycolysis" groups:name="Glycolysis" groups:kind="partonomy"/>
       <groups:group metaid="meta_G_Gluconeogenesis" sboTerm="SBO:0000633" groups:id="G_Gluconeogenesis" groups:name="Gluconeogenesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_PEPCK GTP + oxaloacetate --&gt; GDP + phosphoenolpyruvate + CO2" groups:idRef="R_PEPCK"/>
-          <groups:member groups:name="R_FBP beta-D-Fructose 1,6-bisphosphate + H2O --&gt; beta-D-Fructose 6-phosphate + Orthophosphate" groups:idRef="R_FBP"/>
           <groups:member groups:name="R_G6PPer alpha-D-Glucose 6-phosphate + H2O --&gt; alpha-D-Glucose + Orthophosphate" groups:idRef="R_G6PPer"/>
+          <groups:member groups:name="R_FBP beta-D-Fructose 1,6-bisphosphate + H2O --&gt; beta-D-Fructose 6-phosphate + Orthophosphate" groups:idRef="R_FBP"/>
+          <groups:member groups:name="R_PEPCK GTP + oxaloacetate --&gt; GDP + phosphoenolpyruvate + CO2" groups:idRef="R_PEPCK"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Glycolysis__47__gluconeogenesis" sboTerm="SBO:0000633" groups:id="G_Glycolysis__47__gluconeogenesis" groups:name="Glycolysis/gluconeogenesis" groups:kind="partonomy"/>
@@ -53310,9 +53310,9 @@
       <groups:group metaid="meta_G_Electron__32__transport__32__chain__32__CV" sboTerm="SBO:0000633" groups:id="G_Electron__32__transport__32__chain__32__CV" groups:name="Electron transport chain CV" groups:kind="partonomy"/>
       <groups:group metaid="meta_G_TCA__32__cycle__32__periphery" sboTerm="SBO:0000633" groups:id="G_TCA__32__cycle__32__periphery" groups:name="TCA cycle periphery" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_PCm ATP + Pyruvate + HCO3- --&gt; ADP + Orthophosphate + Oxaloacetate" groups:idRef="R_PCm"/>
-          <groups:member groups:name="R_ACITLm_MitoCore ATP + Citrate + CoA --&gt; ADP + Orthophosphate + Acetyl-CoA + Oxaloacetate" groups:idRef="R_ACITLm_MitoCore"/>
           <groups:member groups:name="R_ME2m (S)-Malate + NADP+ --&gt; Pyruvate + CO2 + NADPH + H+" groups:idRef="R_ME2m"/>
+          <groups:member groups:name="R_ACITLm_MitoCore ATP + Citrate + CoA --&gt; ADP + Orthophosphate + Acetyl-CoA + Oxaloacetate" groups:idRef="R_ACITLm_MitoCore"/>
+          <groups:member groups:name="R_PCm ATP + Pyruvate + HCO3- --&gt; ADP + Orthophosphate + Oxaloacetate" groups:idRef="R_PCm"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Cytosolic__32__misc" sboTerm="SBO:0000633" groups:id="G_Cytosolic__32__misc" groups:name="Cytosolic misc" groups:kind="partonomy"/>
@@ -53360,8 +53360,8 @@
       </groups:group>
       <groups:group metaid="meta_G_Threonine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Threonine__32__degradation" groups:name="Threonine degradation" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_r1155 2-oxobutanoate transport into mitochondrion" groups:idRef="R_r1155"/>
           <groups:member groups:name="R_THRD_L L-Threonine --&gt; 2-Oxobutanoate + Ammonia" groups:idRef="R_THRD_L"/>
+          <groups:member groups:name="R_r1155 2-oxobutanoate transport into mitochondrion" groups:idRef="R_r1155"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Threonine__32__and__32__Methionine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Threonine__32__and__32__Methionine__32__degradation" groups:name="Threonine and Methionine degradation" groups:kind="partonomy"/>
@@ -53389,30 +53389,30 @@
       </groups:group>
       <groups:group metaid="meta_G_Tryptophan__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Tryptophan__32__Metabolism" groups:name="Tryptophan Metabolism" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_FKYNH L-Formylkynurenine + H2O --&gt; Formate + L-Kynurenine" groups:idRef="R_FKYNH"/>
           <groups:member groups:name="R_2OXOADPTmB_MitoCore oxodicarboxylate carrier (ODC) - oxoadipate (in) for oxoglutarate (out)" groups:idRef="R_2OXOADPTmB_MitoCore"/>
           <groups:member groups:name="R_AMCOXO2_MitoCore 2-Aminomuconate + NADH + H+ + H2O --&gt; 2-Oxoadipate + NH3 + NAD+" groups:idRef="R_AMCOXO2_MitoCore"/>
           <groups:member groups:name="R_r0645 2-Aminomuconate semialdehyde + NAD+ + H2O --&gt; 2-Aminomuconate + H+ + NADH" groups:idRef="R_r0645"/>
+          <groups:member groups:name="R_AMCOXO 2-Aminomuconate + NADPH + H+ + H2O --&gt; 2-Oxoadipate + Ammonia + NADP+" groups:idRef="R_AMCOXO"/>
+          <groups:member groups:name="R_2OXOADPTmC_MitoCore oxodicarboxylate carrier (ODC) reverse - oxoadipate (out) for oxoglutarate (in)" groups:idRef="R_2OXOADPTmC_MitoCore"/>
           <groups:member groups:name="R_PCLAD 2-Amino-3-carboxymuconate semialdehyde --&gt; 2-Aminomuconate semialdehyde + CO2" groups:idRef="R_PCLAD"/>
           <groups:member groups:name="R_3HAO 3-Hydroxyanthranilate + Oxygen --&gt; 2-Amino-3-carboxymuconate semialdehyde" groups:idRef="R_3HAO"/>
           <groups:member groups:name="R_TRPO2 L-Tryptophan + Oxygen --&gt; L-Formylkynurenine" groups:idRef="R_TRPO2"/>
           <groups:member groups:name="R_KYN3OX L-Kynurenine + Oxygen + NADPH + H+ --&gt; 3-Hydroxy-L-kynurenine + NADP+ + H2O" groups:idRef="R_KYN3OX"/>
-          <groups:member groups:name="R_FKYNH L-Formylkynurenine + H2O --&gt; Formate + L-Kynurenine" groups:idRef="R_FKYNH"/>
-          <groups:member groups:name="R_AMCOXO 2-Aminomuconate + NADPH + H+ + H2O --&gt; 2-Oxoadipate + Ammonia + NADP+" groups:idRef="R_AMCOXO"/>
-          <groups:member groups:name="R_2OXOADPTmC_MitoCore oxodicarboxylate carrier (ODC) reverse - oxoadipate (out) for oxoglutarate (in)" groups:idRef="R_2OXOADPTmC_MitoCore"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Tryptophan__32____47____32__Lysine__32__Metabolism" sboTerm="SBO:0000633" groups:id="G_Tryptophan__32____47____32__Lysine__32__Metabolism" groups:name="Tryptophan / Lysine Metabolism" groups:kind="partonomy"/>
       <groups:group metaid="meta_G_Lysine__32__degradation__32____40__saccharopine__32__pathway__41__" sboTerm="SBO:0000633" groups:id="G_Lysine__32__degradation__32____40__saccharopine__32__pathway__41__" groups:name="Lysine degradation (saccharopine pathway)" groups:kind="partonomy"/>
       <groups:group metaid="meta_G_Lysine__32__degradation__32____40__L__45__pipecolate__32__pathway__41__" sboTerm="SBO:0000633" groups:id="G_Lysine__32__degradation__32____40__L__45__pipecolate__32__pathway__41__" groups:name="Lysine degradation (L-pipecolate pathway)" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_RE1254C (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + H2O --&gt; L-2-Aminoadipate 6-semialdehyde" groups:idRef="R_RE1254C"/>
           <groups:member groups:name="R_1PPDCRc_NADPH_MitoCore delta1-Piperideine-2-carboxylate + NADPH + H+ --&gt; L-Pipecolate + NADP+" groups:idRef="R_1PPDCRc_NADPH_MitoCore"/>
           <groups:member groups:name="R_1PPDCRc_MitoCore delta1-Piperideine-2-carboxylate + NADH + H+ --&gt; L-Pipecolate + NAD+" groups:idRef="R_1PPDCRc_MitoCore"/>
+          <groups:member groups:name="R_LYSOXc_MitoCore L-Lysine + Oxygen + H2O --&gt; 6-Amino-2-oxohexanoate + Ammonia + Hydrogen peroxide" groups:idRef="R_LYSOXc_MitoCore"/>
           <groups:member groups:name="R_2AMADPTmB_MitoCore Oxodicarboxylate carrier (ODC) - L-aminoadipate (in) for oxoglutarate (out)" groups:idRef="R_2AMADPTmB_MitoCore"/>
           <groups:member groups:name="R_LPCOXc_MitoCore L-Pipecolate + Oxygen --&gt; (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + Hydrogen peroxide" groups:idRef="R_LPCOXc_MitoCore"/>
-          <groups:member groups:name="R_2AMADPTmC_MitoCore Oxodicarboxylate carrier (ODC) reverse - L-aminoadipate (out) for oxoglutarate (in)" groups:idRef="R_2AMADPTmC_MitoCore"/>
-          <groups:member groups:name="R_LYSOXc_MitoCore L-Lysine + Oxygen + H2O --&gt; 6-Amino-2-oxohexanoate + Ammonia + Hydrogen peroxide" groups:idRef="R_LYSOXc_MitoCore"/>
           <groups:member groups:name="R_PPD2CSPc_MitoCore 6-Amino-2-oxohexanoate --&gt; delta1-Piperideine-2-carboxylate + H2O" groups:idRef="R_PPD2CSPc_MitoCore"/>
-          <groups:member groups:name="R_RE1254C (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + H2O --&gt; L-2-Aminoadipate 6-semialdehyde" groups:idRef="R_RE1254C"/>
+          <groups:member groups:name="R_2AMADPTmC_MitoCore Oxodicarboxylate carrier (ODC) reverse - L-aminoadipate (out) for oxoglutarate (in)" groups:idRef="R_2AMADPTmC_MitoCore"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Proline__32__degradation" sboTerm="SBO:0000633" groups:id="G_Proline__32__degradation" groups:name="Proline degradation" groups:kind="partonomy">
@@ -53428,8 +53428,8 @@
       <groups:group metaid="meta_G_Proline__32____47____32__ornithine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Proline__32____47____32__ornithine__32__degradation" groups:name="Proline / ornithine degradation" groups:kind="partonomy"/>
       <groups:group metaid="meta_G_Proline__32__synthesis" sboTerm="SBO:0000633" groups:id="G_Proline__32__synthesis" groups:name="Proline synthesis" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_P5CRm (S)-1-Pyrroline-5-carboxylate + NADPH + H+ --&gt; L-Proline + NADP+" groups:idRef="R_P5CRm"/>
           <groups:member groups:name="R_P5CRxm (S)-1-Pyrroline-5-carboxylate + NADH + H+ --&gt; L-Proline + NAD+" groups:idRef="R_P5CRxm"/>
+          <groups:member groups:name="R_P5CRm (S)-1-Pyrroline-5-carboxylate + NADPH + H+ --&gt; L-Proline + NADP+" groups:idRef="R_P5CRm"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Ornithine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Ornithine__32__degradation" groups:name="Ornithine degradation" groups:kind="partonomy"/>
@@ -53441,9 +53441,9 @@
       </groups:group>
       <groups:group metaid="meta_G_Arginine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Arginine__32__degradation" groups:name="Arginine degradation" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_PTRCAT1m_MitoCore Acetyl-CoA + Putrescine --&gt; CoA + N-Acetylputrescine" groups:idRef="R_PTRCAT1m_MitoCore"/>
           <groups:member groups:name="R_4aabutn_MitoCore 4-Acetamidobutanoate + H2O --&gt; 4-Aminobutanoate + Acetate" groups:idRef="R_4aabutn_MitoCore"/>
           <groups:member groups:name="R_ARGDCm L-Arginine --&gt; Agmatine + CO2" groups:idRef="R_ARGDCm"/>
+          <groups:member groups:name="R_PTRCAT1m_MitoCore Acetyl-CoA + Putrescine --&gt; CoA + N-Acetylputrescine" groups:idRef="R_PTRCAT1m_MitoCore"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_GABA__32__shunt" sboTerm="SBO:0000633" groups:id="G_GABA__32__shunt" groups:name="GABA shunt" groups:kind="partonomy">
@@ -53468,9 +53468,9 @@
       </groups:group>
       <groups:group metaid="meta_G_Folate__32__cytosolic" sboTerm="SBO:0000633" groups:id="G_Folate__32__cytosolic" groups:name="Folate cytosolic" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_FTHFDH 10-Formyltetrahydrofolate + NADP+ + H2O --&gt; Tetrahydrofolate + CO2 + NADPH + H+" groups:idRef="R_FTHFDH"/>
-          <groups:member groups:name="R_FOLR2 Folate + NADPH + H+ --&gt; Dihydrofolate + NADP+" groups:idRef="R_FOLR2"/>
           <groups:member groups:name="R_DHFR Dihydrofolate + NADPH + H+ --&gt; Tetrahydrofolate + NADP+" groups:idRef="R_DHFR"/>
+          <groups:member groups:name="R_FOLR2 Folate + NADPH + H+ --&gt; Dihydrofolate + NADP+" groups:idRef="R_FOLR2"/>
+          <groups:member groups:name="R_FTHFDH 10-Formyltetrahydrofolate + NADP+ + H2O --&gt; Tetrahydrofolate + CO2 + NADPH + H+" groups:idRef="R_FTHFDH"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Serine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Serine__32__degradation" groups:name="Serine degradation" groups:kind="partonomy">
@@ -53515,8 +53515,8 @@
       </groups:group>
       <groups:group metaid="meta_G_Tyrosine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Tyrosine__32__degradation" groups:name="Tyrosine degradation" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_34HPPOR 3-(4-Hydroxyphenyl)pyruvate + Oxygen --&gt; Homogentisate + CO2" groups:idRef="R_34HPPOR"/>
           <groups:member groups:name="R_TYRTB_MitoCore L-Tyrosine + H2O + Oxygen --&gt; 3-(4-Hydroxyphenyl)pyruvate + Ammonia + Hydrogen peroxide" groups:idRef="R_TYRTB_MitoCore"/>
+          <groups:member groups:name="R_34HPPOR 3-(4-Hydroxyphenyl)pyruvate + Oxygen --&gt; Homogentisate + CO2" groups:idRef="R_34HPPOR"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Asparagine__32__synthesis" sboTerm="SBO:0000633" groups:id="G_Asparagine__32__synthesis" groups:name="Asparagine synthesis" groups:kind="partonomy">
@@ -53531,9 +53531,9 @@
       </groups:group>
       <groups:group metaid="meta_G_Histidine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Histidine__32__degradation" groups:name="Histidine degradation" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_URCN Urocanate + H2O --&gt; 4-Imidazolone-5-propanoate" groups:idRef="R_URCN"/>
-          <groups:member groups:name="R_IZPN 4-Imidazolone-5-propanoate + H2O --&gt; N-Formimino-L-glutamate" groups:idRef="R_IZPN"/>
           <groups:member groups:name="R_HISD L-Histidine --&gt; Urocanate + Ammonia" groups:idRef="R_HISD"/>
+          <groups:member groups:name="R_IZPN 4-Imidazolone-5-propanoate + H2O --&gt; N-Formimino-L-glutamate" groups:idRef="R_IZPN"/>
+          <groups:member groups:name="R_URCN Urocanate + H2O --&gt; 4-Imidazolone-5-propanoate" groups:idRef="R_URCN"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Beta__45__alanine__32__degradation" sboTerm="SBO:0000633" groups:id="G_Beta__45__alanine__32__degradation" groups:name="Beta-alanine degradation" groups:kind="partonomy">
@@ -53565,18 +53565,18 @@
       </groups:group>
       <groups:group metaid="meta_G_Urea__32__Cycle" sboTerm="SBO:0000633" groups:id="G_Urea__32__Cycle" groups:name="Urea Cycle" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_ARGSS ATP + L-Citrulline + L-Aspartate --&gt; AMP + Diphosphate + N-(L-Arginino)succinate" groups:idRef="R_ARGSS"/>
           <groups:member groups:name="R_ARGNm L-Arginine + H2O --&gt; L-Ornithine + Urea" groups:idRef="R_ARGNm"/>
           <groups:member groups:name="R_ARGN L-Arginine + H2O --&gt; L-Ornithine + Urea" groups:idRef="R_ARGN"/>
+          <groups:member groups:name="R_ARGSS ATP + L-Citrulline + L-Aspartate --&gt; AMP + Diphosphate + N-(L-Arginino)succinate" groups:idRef="R_ARGSS"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Haem__32__Synthesis" sboTerm="SBO:0000633" groups:id="G_Haem__32__Synthesis" groups:name="Haem Synthesis" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_ALASm Succinyl-CoA + Glycine --&gt; 5-Aminolevulinate + CoA + CO2" groups:idRef="R_ALASm"/>
+          <groups:member groups:name="R_FCLTm Protoporphyrin + Fe2+ --&gt; Heme + 2 H+" groups:idRef="R_FCLTm"/>
           <groups:member groups:name="R_5AOPtm 5-Aminolevulinate transport out of mitochondrion" groups:idRef="R_5AOPtm"/>
           <groups:member groups:name="R_PHEMEtm Heme transport out of mitochondrion" groups:idRef="R_PHEMEtm"/>
           <groups:member groups:name="R_HMBS 4 Porphobilinogen + H2O --&gt; Hydroxymethylbilane + 4 Ammonia" groups:idRef="R_HMBS"/>
-          <groups:member groups:name="R_FCLTm Protoporphyrin + Fe2+ --&gt; Heme + 2 H+" groups:idRef="R_FCLTm"/>
-          <groups:member groups:name="R_ALASm Succinyl-CoA + Glycine --&gt; 5-Aminolevulinate + CoA + CO2" groups:idRef="R_ALASm"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Haem__32__Degradation" sboTerm="SBO:0000633" groups:id="G_Haem__32__Degradation" groups:name="Haem Degradation" groups:kind="partonomy"/>
@@ -53608,107 +53608,109 @@
       </groups:group>
       <groups:group metaid="meta_G_Mitochondrial__32__transporters__32____45____32__uncharacterised" sboTerm="SBO:0000633" groups:id="G_Mitochondrial__32__transporters__32____45____32__uncharacterised" groups:name="Mitochondrial transporters - uncharacterised" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_BALAtmr Beta-alanine reversible mitochondrial transport (diffusion)" groups:idRef="R_BALAtmr"/>
-          <groups:member groups:name="R_GLNtm Unknown amino acid carrier - L-Glutamine" groups:idRef="R_GLNtm"/>
-          <groups:member groups:name="R_r1078 Unknown amino acid carrier - L-Tyrosine" groups:idRef="R_r1078"/>
-          <groups:member groups:name="R_ASNtm Unknown amino acid carrier - L-Asparagine" groups:idRef="R_ASNtm"/>
-          <groups:member groups:name="R_ILEt5m Unknown amino acid carrier - L-Isoleucine" groups:idRef="R_ILEt5m"/>
-          <groups:member groups:name="R_VALt5m Unknown amino acid carrier - L-Valine" groups:idRef="R_VALt5m"/>
           <groups:member groups:name="R_BUTt2mB_MitoCore Butyrate mitochondrial transport" groups:idRef="R_BUTt2mB_MitoCore"/>
           <groups:member groups:name="R_UREAtm Urea transport" groups:idRef="R_UREAtm"/>
           <groups:member groups:name="R_CHLtmB_MitoCore Choline mitochondrial transport" groups:idRef="R_CHLtmB_MitoCore"/>
-          <groups:member groups:name="R_r1437 Unknown amino acid carrier - L-Cysteine" groups:idRef="R_r1437"/>
-          <groups:member groups:name="R_TRPtm_MitoCore Unknown amino acid carrier - L-Tryptophan" groups:idRef="R_TRPtm_MitoCore"/>
           <groups:member groups:name="R_r1434 Unknown amino acid carrier - L-Alanine" groups:idRef="R_r1434"/>
           <groups:member groups:name="R_FUMtmB_MitoCore Fumarate transport" groups:idRef="R_FUMtmB_MitoCore"/>
           <groups:member groups:name="R_GLYtm Unknown amino acid carrier - Glycine" groups:idRef="R_GLYtm"/>
           <groups:member groups:name="R_FORt2mB_MitoCore Formate mitochondrial transport" groups:idRef="R_FORt2mB_MitoCore"/>
-          <groups:member groups:name="R_PROtm Unknown amino acid carrier - L-Proline" groups:idRef="R_PROtm"/>
+          <groups:member groups:name="R_r1455 Unknown amino acid carrier - L-Phenylalanine" groups:idRef="R_r1455"/>
           <groups:member groups:name="R_r1435 Unknown amino acid carrier - L-Serine" groups:idRef="R_r1435"/>
+          <groups:member groups:name="R_PROtm Unknown amino acid carrier - L-Proline" groups:idRef="R_PROtm"/>
           <groups:member groups:name="R_BHBtmB_MitoCore (R)-3-Hydroxybutanoate mitochondrial transport" groups:idRef="R_BHBtmB_MitoCore"/>
           <groups:member groups:name="R_r1436 Unknown amino acid carrier - L-Methionine" groups:idRef="R_r1436"/>
-          <groups:member groups:name="R_r1455 Unknown amino acid carrier - L-Phenylalanine" groups:idRef="R_r1455"/>
           <groups:member groups:name="R_r1440 Unknown amino acid carrier - L-Threonine" groups:idRef="R_r1440"/>
           <groups:member groups:name="R_PPAtmB_MitoCore Propanoate mitochondrial transport" groups:idRef="R_PPAtmB_MitoCore"/>
           <groups:member groups:name="R_r0962B_MitoCore Folate mitochondrial transport" groups:idRef="R_r0962B_MitoCore"/>
+          <groups:member groups:name="R_ILEt5m Unknown amino acid carrier - L-Isoleucine" groups:idRef="R_ILEt5m"/>
           <groups:member groups:name="R_LEUt5m Unknown amino acid carrier - L-Leucine" groups:idRef="R_LEUt5m"/>
+          <groups:member groups:name="R_BALAtmr Beta-alanine reversible mitochondrial transport (diffusion)" groups:idRef="R_BALAtmr"/>
+          <groups:member groups:name="R_GLNtm Unknown amino acid carrier - L-Glutamine" groups:idRef="R_GLNtm"/>
+          <groups:member groups:name="R_TRPtm_MitoCore Unknown amino acid carrier - L-Tryptophan" groups:idRef="R_TRPtm_MitoCore"/>
+          <groups:member groups:name="R_r1078 Unknown amino acid carrier - L-Tyrosine" groups:idRef="R_r1078"/>
+          <groups:member groups:name="R_ASNtm Unknown amino acid carrier - L-Asparagine" groups:idRef="R_ASNtm"/>
+          <groups:member groups:name="R_r1437 Unknown amino acid carrier - L-Cysteine" groups:idRef="R_r1437"/>
+          <groups:member groups:name="R_VALt5m Unknown amino acid carrier - L-Valine" groups:idRef="R_VALt5m"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Mitochondrial__32__transport__32____45____32__diffusion__32____47____32__artificial" sboTerm="SBO:0000633" groups:id="G_Mitochondrial__32__transport__32____45____32__diffusion__32____47____32__artificial" groups:name="Mitochondrial transport - diffusion / artificial" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_TCYNTtmB_MitoCore Thiocyanate transport via diffusion (mitochondrial)" groups:idRef="R_TCYNTtmB_MitoCore"/>
+          <groups:member groups:name="R_H2Otm H2O transport, mitochondrial" groups:idRef="R_H2Otm"/>
+          <groups:member groups:name="R_r0941 Bicarbonate diffusion" groups:idRef="R_r0941"/>
           <groups:member groups:name="R_CYANtm Cyanide transport via diffusion" groups:idRef="R_CYANtm"/>
-          <groups:member groups:name="R_Biomasst_MitoCore Biomass pseudo transport" groups:idRef="R_Biomasst_MitoCore"/>
           <groups:member groups:name="R_GLYCtm glycerol transport" groups:idRef="R_GLYCtm"/>
           <groups:member groups:name="R_O2tm O2 transport (diffusion)" groups:idRef="R_O2tm"/>
           <groups:member groups:name="R_CO2tm CO2 transport (diffusion), mitochondrial" groups:idRef="R_CO2tm"/>
           <groups:member groups:name="R_PCREATtmdiffirB_MitoCore Phosphocreatine transport to/from mitochondria" groups:idRef="R_PCREATtmdiffirB_MitoCore"/>
           <groups:member groups:name="R_CREATtmdiffir Creatine transport to/from mitochondria" groups:idRef="R_CREATtmdiffir"/>
+          <groups:member groups:name="R_Biomasst_MitoCore Biomass pseudo transport" groups:idRef="R_Biomasst_MitoCore"/>
           <groups:member groups:name="R_r0838B_MitoCore Ammonia free diffusion" groups:idRef="R_r0838B_MitoCore"/>
-          <groups:member groups:name="R_TCYNTtmB_MitoCore Thiocyanate transport via diffusion (mitochondrial)" groups:idRef="R_TCYNTtmB_MitoCore"/>
-          <groups:member groups:name="R_H2Otm H2O transport, mitochondrial" groups:idRef="R_H2Otm"/>
-          <groups:member groups:name="R_r0941 Bicarbonate diffusion" groups:idRef="R_r0941"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Mitochondrial__32__transport__32____45____32__lipids" sboTerm="SBO:0000633" groups:id="G_Mitochondrial__32__transport__32____45____32__lipids" groups:name="Mitochondrial transport - lipids" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_PEFLIPm phosphatidylethanolamine flippase" groups:idRef="R_PEFLIPm"/>
           <groups:member groups:name="R_PCFLOPm phosphatidylcholine flippase" groups:idRef="R_PCFLOPm"/>
           <groups:member groups:name="R_PSFLIPm phosphatidylserine flippase" groups:idRef="R_PSFLIPm"/>
-          <groups:member groups:name="R_PEFLIPm phosphatidylethanolamine flippase" groups:idRef="R_PEFLIPm"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__conditions__32____45____32__core" sboTerm="SBO:0000633" groups:id="G_Boundary__32__conditions__32____45____32__core" groups:name="Boundary conditions - core" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_CO2t CO2 transporter via diffusion" groups:idRef="R_CO2t"/>
-          <groups:member groups:name="R_GLCt1r glucose transport" groups:idRef="R_GLCt1r"/>
           <groups:member groups:name="R_BHBt (R)-3-Hydroxybutanoate transport via H+ symport" groups:idRef="R_BHBt"/>
-          <groups:member groups:name="R_O2t o2 transport (diffusion)" groups:idRef="R_O2t"/>
-          <groups:member groups:name="R_HDCAtr fatty acid transport via diffusion" groups:idRef="R_HDCAtr"/>
-          <groups:member groups:name="R_Biomass_MitoCore Biomass Sink" groups:idRef="R_Biomass_MitoCore"/>
-          <groups:member groups:name="R_ACACt2 acetoacetate transport via proton symport" groups:idRef="R_ACACt2"/>
-          <groups:member groups:name="R_HCO3t_MitoCore Bicarbonate diffusion" groups:idRef="R_HCO3t_MitoCore"/>
-          <groups:member groups:name="R_HDCAtm_MitoCore fatty acid accumulation - mitochondria" groups:idRef="R_HDCAtm_MitoCore"/>
           <groups:member groups:name="R_L_LACt2r L-lactate reversible transport via proton symport" groups:idRef="R_L_LACt2r"/>
+          <groups:member groups:name="R_HCO3t_MitoCore Bicarbonate diffusion" groups:idRef="R_HCO3t_MitoCore"/>
+          <groups:member groups:name="R_HDCAtr fatty acid transport via diffusion" groups:idRef="R_HDCAtr"/>
+          <groups:member groups:name="R_CO2t CO2 transporter via diffusion" groups:idRef="R_CO2t"/>
+          <groups:member groups:name="R_ACACt2 acetoacetate transport via proton symport" groups:idRef="R_ACACt2"/>
+          <groups:member groups:name="R_GLCt1r glucose transport" groups:idRef="R_GLCt1r"/>
+          <groups:member groups:name="R_HDCAtm_MitoCore fatty acid accumulation - mitochondria" groups:idRef="R_HDCAtm_MitoCore"/>
+          <groups:member groups:name="R_O2t o2 transport (diffusion)" groups:idRef="R_O2t"/>
+          <groups:member groups:name="R_Biomass_MitoCore Biomass Sink" groups:idRef="R_Biomass_MitoCore"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__conditions__32____45____32__alternative__32__fuels" sboTerm="SBO:0000633" groups:id="G_Boundary__32__conditions__32____45____32__alternative__32__fuels" groups:name="Boundary conditions - alternative fuels" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_BUTt2r Butyrate transport via proton symport, reversible" groups:idRef="R_BUTt2r"/>
-          <groups:member groups:name="R_ETOHt ethanol reversible transport" groups:idRef="R_ETOHt"/>
-          <groups:member groups:name="R_r0942 Creatine storage" groups:idRef="R_r0942"/>
           <groups:member groups:name="R_r0942b_MitoCore Phosphocreatine storage" groups:idRef="R_r0942b_MitoCore"/>
+          <groups:member groups:name="R_ETOHt ethanol reversible transport" groups:idRef="R_ETOHt"/>
+          <groups:member groups:name="R_BUTt2r Butyrate transport via proton symport, reversible" groups:idRef="R_BUTt2r"/>
           <groups:member groups:name="R_GLYCt glycerol transport via channel" groups:idRef="R_GLYCt"/>
+          <groups:member groups:name="R_r0942 Creatine storage" groups:idRef="R_r0942"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__conditions__32____45____32__essential__32__amino__32__acids" sboTerm="SBO:0000633" groups:id="G_Boundary__32__conditions__32____45____32__essential__32__amino__32__acids" groups:name="Boundary conditions - essential amino acids" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_r2534 L-threonine transport" groups:idRef="R_r2534"/>
-          <groups:member groups:name="R_LYStiDF L-lysine transport via diffusion (extracellular to cytosol)" groups:idRef="R_LYStiDF"/>
-          <groups:member groups:name="R_TRPt L-tryptophan transport" groups:idRef="R_TRPt"/>
-          <groups:member groups:name="R_LEUtec L-leucine transport via diffusion (extracellular to cytosol)" groups:idRef="R_LEUtec"/>
-          <groups:member groups:name="R_HIStiDF L-histidine transport via diffusion (extracellular to cytosol)" groups:idRef="R_HIStiDF"/>
-          <groups:member groups:name="R_VALtec L-valine transport via diffusion (extracellular to cytosol)" groups:idRef="R_VALtec"/>
-          <groups:member groups:name="R_PHEtec L-phenylalanine transport via diffusion (extracellular to cytosol)" groups:idRef="R_PHEtec"/>
           <groups:member groups:name="R_METtec L-methionine transport via diffusion (extracellular to cytosol)" groups:idRef="R_METtec"/>
+          <groups:member groups:name="R_LYStiDF L-lysine transport via diffusion (extracellular to cytosol)" groups:idRef="R_LYStiDF"/>
+          <groups:member groups:name="R_LEUtec L-leucine transport via diffusion (extracellular to cytosol)" groups:idRef="R_LEUtec"/>
+          <groups:member groups:name="R_TRPt L-tryptophan transport" groups:idRef="R_TRPt"/>
+          <groups:member groups:name="R_VALtec L-valine transport via diffusion (extracellular to cytosol)" groups:idRef="R_VALtec"/>
           <groups:member groups:name="R_ILEtec L-isoleucine transport via diffusion (extracellular to cytosol)" groups:idRef="R_ILEtec"/>
+          <groups:member groups:name="R_HIStiDF L-histidine transport via diffusion (extracellular to cytosol)" groups:idRef="R_HIStiDF"/>
+          <groups:member groups:name="R_r2534 L-threonine transport" groups:idRef="R_r2534"/>
+          <groups:member groups:name="R_PHEtec L-phenylalanine transport via diffusion (extracellular to cytosol)" groups:idRef="R_PHEtec"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__conditions__32____45____32__nonessential__32__amino__32__acids" sboTerm="SBO:0000633" groups:id="G_Boundary__32__conditions__32____45____32__nonessential__32__amino__32__acids" groups:name="Boundary conditions - nonessential amino acids" groups:kind="partonomy">
         <groups:listOfMembers>
-          <groups:member groups:name="R_ASPte L-aspartate transport" groups:idRef="R_ASPte"/>
-          <groups:member groups:name="R_r2526 L-serine transport" groups:idRef="R_r2526"/>
-          <groups:member groups:name="R_ARGtiDF L-arginine transport via diffusion (extracellular to cytosol)" groups:idRef="R_ARGtiDF"/>
-          <groups:member groups:name="R_PROt2r L-proline reversible transport via proton symport" groups:idRef="R_PROt2r"/>
-          <groups:member groups:name="R_GLYt2r glycine reversible transport via proton symport" groups:idRef="R_GLYt2r"/>
-          <groups:member groups:name="R_TYRt L-tyrosine transport" groups:idRef="R_TYRt"/>
-          <groups:member groups:name="R_r2525 L_glutamine transport" groups:idRef="R_r2525"/>
-          <groups:member groups:name="R_GLUt_MitoCore L-glutamate transport" groups:idRef="R_GLUt_MitoCore"/>
-          <groups:member groups:name="R_ALAt2r L-alanine reversible transport via proton symport" groups:idRef="R_ALAt2r"/>
           <groups:member groups:name="R_CYStec L-cysteine transport via diffusion (extracellular to cytosol)" groups:idRef="R_CYStec"/>
           <groups:member groups:name="R_r2532 L-asparagine transport" groups:idRef="R_r2532"/>
+          <groups:member groups:name="R_ASPte L-aspartate transport" groups:idRef="R_ASPte"/>
+          <groups:member groups:name="R_r2526 L-serine transport" groups:idRef="R_r2526"/>
+          <groups:member groups:name="R_PROt2r L-proline reversible transport via proton symport" groups:idRef="R_PROt2r"/>
+          <groups:member groups:name="R_ARGtiDF L-arginine transport via diffusion (extracellular to cytosol)" groups:idRef="R_ARGtiDF"/>
+          <groups:member groups:name="R_TYRt L-tyrosine transport" groups:idRef="R_TYRt"/>
+          <groups:member groups:name="R_r2525 L_glutamine transport" groups:idRef="R_r2525"/>
+          <groups:member groups:name="R_GLYt2r glycine reversible transport via proton symport" groups:idRef="R_GLYt2r"/>
+          <groups:member groups:name="R_GLUt_MitoCore L-glutamate transport" groups:idRef="R_GLUt_MitoCore"/>
+          <groups:member groups:name="R_ALAt2r L-alanine reversible transport via proton symport" groups:idRef="R_ALAt2r"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__Conditions__32____45____32__Biomarkers" sboTerm="SBO:0000633" groups:id="G_Boundary__32__Conditions__32____45____32__Biomarkers" groups:name="Boundary Conditions - Biomarkers" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_2HBt2 2-hydroxybutyrate cotransport with proton" groups:idRef="R_2HBt2"/>
+          <groups:member groups:name="R_MERCPLACt_MitoCore 3-Mercaptolactate transport" groups:idRef="R_MERCPLACt_MitoCore"/>
           <groups:member groups:name="R_ACt2r acetate reversible transport via proton symport" groups:idRef="R_ACt2r"/>
           <groups:member groups:name="R_NH4t3r ammonia transport via proton antiport" groups:idRef="R_NH4t3r"/>
           <groups:member groups:name="R_AKGt_MitoCore 2-Oxoglutarate transport" groups:idRef="R_AKGt_MitoCore"/>
@@ -53724,31 +53726,29 @@
           <groups:member groups:name="R_FUMt_MitoCore Fumarate transport" groups:idRef="R_FUMt_MitoCore"/>
           <groups:member groups:name="R_r0817 Citrulline transport" groups:idRef="R_r0817"/>
           <groups:member groups:name="R_OAAt_MitoCore Oxaloacetate transport" groups:idRef="R_OAAt_MitoCore"/>
-          <groups:member groups:name="R_2HBt2 2-hydroxybutyrate cotransport with proton" groups:idRef="R_2HBt2"/>
-          <groups:member groups:name="R_MERCPLACt_MitoCore 3-Mercaptolactate transport" groups:idRef="R_MERCPLACt_MitoCore"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__Conditions__32____45____32__Misc" sboTerm="SBO:0000633" groups:id="G_Boundary__32__Conditions__32____45____32__Misc" groups:name="Boundary Conditions - Misc" groups:kind="partonomy">
         <groups:listOfMembers>
+          <groups:member groups:name="R_FORt_MitoCore Formate" groups:idRef="R_FORt_MitoCore"/>
+          <groups:member groups:name="R_COt CO transporter via diffusion" groups:idRef="R_COt"/>
+          <groups:member groups:name="R_r0899 Beta-alanine" groups:idRef="R_r0899"/>
+          <groups:member groups:name="R_NOt NO transport (diffusion)" groups:idRef="R_NOt"/>
           <groups:member groups:name="R_CYANt Cyanide transport via diffusion (extracellular to cytosol)" groups:idRef="R_CYANt"/>
+          <groups:member groups:name="R_FOLt_MitoCore Folate" groups:idRef="R_FOLt_MitoCore"/>
+          <groups:member groups:name="R_Hmt_MitoCore Proton escape - mitochondrial" groups:idRef="R_Hmt_MitoCore"/>
+          <groups:member groups:name="R_NADHt_MitoCore NADH pool" groups:idRef="R_NADHt_MitoCore"/>
+          <groups:member groups:name="R_r0940 hydrogen sulfide" groups:idRef="R_r0940"/>
+          <groups:member groups:name="R_TSULt_MitoCore Thiosulfate" groups:idRef="R_TSULt_MitoCore"/>
+          <groups:member groups:name="R_H2Ot H2O transport via diffusion" groups:idRef="R_H2Ot"/>
+          <groups:member groups:name="R_Hct_MitoCore Proton escape - cytosolic" groups:idRef="R_Hct_MitoCore"/>
+          <groups:member groups:name="R_TCYNTt Thiocyanate" groups:idRef="R_TCYNTt"/>
+          <groups:member groups:name="R_SO3t_MitoCore Sulfite" groups:idRef="R_SO3t_MitoCore"/>
+          <groups:member groups:name="R_NADt_MitoCore NAD+ pool" groups:idRef="R_NADt_MitoCore"/>
           <groups:member groups:name="R_NADHtm_MitoCore NADH pool mitochondrial" groups:idRef="R_NADHtm_MitoCore"/>
           <groups:member groups:name="R_r1423 Phosphate facilitated diffusion" groups:idRef="R_r1423"/>
           <groups:member groups:name="R_FE2t iron (II) transport" groups:idRef="R_FE2t"/>
           <groups:member groups:name="R_NADtm_MitoCore NAD+ pool mitochondrial" groups:idRef="R_NADtm_MitoCore"/>
-          <groups:member groups:name="R_FORt_MitoCore Formate" groups:idRef="R_FORt_MitoCore"/>
-          <groups:member groups:name="R_Hct_MitoCore Proton escape - cytosolic" groups:idRef="R_Hct_MitoCore"/>
-          <groups:member groups:name="R_r0899 Beta-alanine" groups:idRef="R_r0899"/>
-          <groups:member groups:name="R_COt CO transporter via diffusion" groups:idRef="R_COt"/>
-          <groups:member groups:name="R_TSULt_MitoCore Thiosulfate" groups:idRef="R_TSULt_MitoCore"/>
-          <groups:member groups:name="R_NOt NO transport (diffusion)" groups:idRef="R_NOt"/>
-          <groups:member groups:name="R_SO3t_MitoCore Sulfite" groups:idRef="R_SO3t_MitoCore"/>
-          <groups:member groups:name="R_FOLt_MitoCore Folate" groups:idRef="R_FOLt_MitoCore"/>
-          <groups:member groups:name="R_NADHt_MitoCore NADH pool" groups:idRef="R_NADHt_MitoCore"/>
-          <groups:member groups:name="R_H2Ot H2O transport via diffusion" groups:idRef="R_H2Ot"/>
-          <groups:member groups:name="R_Hmt_MitoCore Proton escape - mitochondrial" groups:idRef="R_Hmt_MitoCore"/>
-          <groups:member groups:name="R_r0940 hydrogen sulfide" groups:idRef="R_r0940"/>
-          <groups:member groups:name="R_TCYNTt Thiocyanate" groups:idRef="R_TCYNTt"/>
-          <groups:member groups:name="R_NADt_MitoCore NAD+ pool" groups:idRef="R_NADt_MitoCore"/>
         </groups:listOfMembers>
       </groups:group>
       <groups:group metaid="meta_G_Boundary__32__Conditions__32____45____32__Lipids" sboTerm="SBO:0000633" groups:id="G_Boundary__32__Conditions__32____45____32__Lipids" groups:name="Boundary Conditions - Lipids" groups:kind="partonomy">
