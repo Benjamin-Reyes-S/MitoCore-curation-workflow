@@ -296,11 +296,11 @@
         "reverse": NaN
     },
     "HEX1": {
-        "forward": 53.6,
-        "reverse": 186.0
+        "forward": 54.0,
+        "reverse": 27.1
     },
     "G6PPer": {
-        "forward": 43.5,
+        "forward": 2.5,
         "reverse": 43.5
     },
     "PGI": {
@@ -308,51 +308,51 @@
         "reverse": 1675.0
     },
     "PFK": {
-        "forward": 60.5,
-        "reverse": 112.0
+        "forward": 61.0,
+        "reverse": 310.0
     },
     "FBP": {
-        "forward": 21.0,
-        "reverse": 21.0
+        "forward": 10.5,
+        "reverse": 12.65
     },
     "FBA": {
         "forward": 8.9,
         "reverse": 3.6
     },
     "TPI": {
-        "forward": 1666.0,
-        "reverse": 1666.0
+        "forward": 2100.0,
+        "reverse": 2100.0
     },
     "GAPD": {
-        "forward": 82.0,
-        "reverse": 82.0
+        "forward": 73.56,
+        "reverse": 73.56
     },
     "PGK": {
         "forward": 24.0,
-        "reverse": 58.6
+        "reverse": 129.3
     },
     "PGM": {
         "forward": 1.5899999999999999,
         "reverse": 1.5899999999999999
     },
     "ENO": {
-        "forward": 28.05,
-        "reverse": 28.05
+        "forward": 26.5,
+        "reverse": 26.5
     },
     "PYK": {
-        "forward": 349.0,
+        "forward": 349.5,
         "reverse": 206.95
     },
     "r0122": {
-        "forward": 58.4,
+        "forward": 88.0,
         "reverse": 206.95
     },
     "PEPCK": {
-        "forward": 3.18,
-        "reverse": 3.18
+        "forward": 9.3166665,
+        "reverse": 9.3166665
     },
     "LDH_L": {
-        "forward": 510.0,
+        "forward": 38.33333,
         "reverse": 180.0
     },
     "G6PDH2r": {
@@ -368,43 +368,43 @@
         "reverse": 17.1
     },
     "RPI": {
-        "forward": 2514.5,
-        "reverse": 2514.5
+        "forward": 1822.0,
+        "reverse": 1822.0
     },
     "RPE": {
         "forward": 840.0,
         "reverse": 840.0
     },
     "TKT1": {
-        "forward": 1.35,
-        "reverse": 1.35
+        "forward": 743.5,
+        "reverse": 3.7
     },
     "TALA": {
         "forward": 13.86,
         "reverse": 13.86
     },
     "TKT2": {
-        "forward": 1.35,
-        "reverse": 1.35
+        "forward": 1103.0,
+        "reverse": 3.7
     },
     "PDHm": {
         "forward": 31.945,
         "reverse": 31.945
     },
     "CSm": {
-        "forward": 167.0,
-        "reverse": 167.0
+        "forward": 28.2,
+        "reverse": 31.9
     },
     "ACONTm": {
         "forward": 5.2,
         "reverse": 5.2
     },
     "ICDHxm": {
-        "forward": 12.03333,
+        "forward": 43.0,
         "reverse": 3.5
     },
     "ICDHyrm": {
-        "forward": 80.5,
+        "forward": 35.4,
         "reverse": 3.5
     },
     "AKGDm": {
@@ -420,12 +420,12 @@
         "reverse": 19.8
     },
     "FUMm": {
-        "forward": 650.0,
-        "reverse": 38.45
+        "forward": 204.2,
+        "reverse": 200.0
     },
     "MDHm": {
-        "forward": 2835.0,
-        "reverse": 950.0
+        "forward": 200.0,
+        "reverse": 982.0
     },
     "CI_MitoCore": {
         "forward": 63.0,
@@ -433,22 +433,22 @@
     },
     "CII_MitoCore": {
         "forward": 54.0,
-        "reverse": 370.0
+        "reverse": 78.0
     },
     "CIII_MitoCore": {
         "forward": 79.0,
         "reverse": 79.0
     },
     "CIV_MitoCore": {
-        "forward": 38.1,
-        "reverse": 13.33333
+        "forward": 38.85,
+        "reverse": 38.85
     },
     "CV_MitoCore": {
         "forward": 18.5,
         "reverse": 217.0
     },
     "PEPCKm": {
-        "forward": 3.18,
+        "forward": 9.333333,
         "reverse": 9.333333
     },
     "PCm": {
@@ -456,51 +456,51 @@
         "reverse": 0.27
     },
     "ME2m": {
-        "forward": 28.3,
+        "forward": 1.2,
         "reverse": 54.5
     },
     "ME1m": {
-        "forward": 61.949999999999996,
+        "forward": 130.5,
         "reverse": 54.5
     },
     "r0081": {
-        "forward": 5.235,
-        "reverse": 6.71
+        "forward": 0.38,
+        "reverse": 6.135
     },
     "NDPK1m": {
-        "forward": 143.5,
-        "reverse": 143.5
+        "forward": 140.0,
+        "reverse": 140.0
     },
     "NNT_MitoCore": {
         "forward": 0.73,
         "reverse": 0.73
     },
     "ADK1m": {
-        "forward": 417.5,
-        "reverse": 458.5
+        "forward": 325.0,
+        "reverse": 500.0
     },
     "ME2": {
-        "forward": 27.200000000000003,
+        "forward": 0.0082,
         "reverse": 54.5
     },
     "ALATA_L": {
-        "forward": 133.0,
-        "reverse": 6.71
+        "forward": 0.38,
+        "reverse": 6.56
     },
     "NDPK1": {
-        "forward": 143.5,
-        "reverse": 143.5
+        "forward": 140.0,
+        "reverse": 140.0
     },
     "FUM": {
-        "forward": 650.0,
-        "reverse": 38.45
+        "forward": 204.2,
+        "reverse": 200.0
     },
     "ADK1": {
-        "forward": 417.5,
-        "reverse": 458.5
+        "forward": 325.0,
+        "reverse": 500.0
     },
     "ICDHy": {
-        "forward": 80.5,
+        "forward": 35.4,
         "reverse": 3.5
     },
     "ACONT": {
@@ -508,11 +508,11 @@
         "reverse": 5.2
     },
     "ASPTA": {
-        "forward": 133.0,
-        "reverse": 113.5
+        "forward": 112.0,
+        "reverse": 279.0
     },
     "MDH": {
-        "forward": 2835.0,
+        "forward": 200.0,
         "reverse": 950.0
     },
     "AKGMALtm": {
@@ -524,12 +524,12 @@
         "reverse": NaN
     },
     "ASPTAm": {
-        "forward": 133.0,
-        "reverse": 113.5
+        "forward": 112.0,
+        "reverse": 279.0
     },
     "G3PD1": {
-        "forward": 240.0,
-        "reverse": 240.0
+        "forward": 188.0,
+        "reverse": 188.0
     },
     "r0205": {
         "forward": 33.3,
@@ -540,7 +540,7 @@
         "reverse": 1.23
     },
     "PPA": {
-        "forward": 114.5,
+        "forward": 143.0,
         "reverse": 77.5
     },
     "r2435": {
@@ -548,12 +548,12 @@
         "reverse": NaN
     },
     "PPAm": {
-        "forward": 114.5,
+        "forward": 143.0,
         "reverse": 77.5
     },
     "ACOT2_MitoCore": {
-        "forward": 144.5,
-        "reverse": 144.5
+        "forward": 13.3,
+        "reverse": 13.3
     },
     "ACADLC16_MitoCore": {
         "forward": 5.4,
@@ -580,8 +580,8 @@
         "reverse": 3.0999999999999996
     },
     "r1447": {
-        "forward": 25.4,
-        "reverse": 25.4
+        "forward": 16.8,
+        "reverse": 16.8
     },
     "r0638": {
         "forward": 0.73,
@@ -592,16 +592,16 @@
         "reverse": 191.5
     },
     "r0722": {
-        "forward": 155.0,
-        "reverse": 155.0
+        "forward": 113.0,
+        "reverse": 113.0
     },
     "r0724": {
         "forward": 3.0999999999999996,
         "reverse": 3.0999999999999996
     },
     "r1451": {
-        "forward": 25.4,
-        "reverse": 25.4
+        "forward": 16.8,
+        "reverse": 16.8
     },
     "r0735": {
         "forward": 0.73,
@@ -612,19 +612,19 @@
         "reverse": 191.5
     },
     "r0726": {
-        "forward": 155.0,
-        "reverse": 155.0
+        "forward": 113.0,
+        "reverse": 113.0
     },
     "r0634": {
         "forward": 3.0999999999999996,
         "reverse": 3.0999999999999996
     },
     "r1448": {
-        "forward": 25.4,
-        "reverse": 25.4
+        "forward": 16.8,
+        "reverse": 16.8
     },
     "r0633": {
-        "forward": 1.165,
+        "forward": 0.73,
         "reverse": 1.165
     },
     "r0731": {
@@ -632,32 +632,32 @@
         "reverse": 191.5
     },
     "r0730": {
-        "forward": 155.0,
-        "reverse": 155.0
+        "forward": 113.0,
+        "reverse": 113.0
     },
     "r0732": {
-        "forward": 7.2,
-        "reverse": 7.2
+        "forward": 7.0,
+        "reverse": 7.0
     },
     "r1450": {
-        "forward": 25.4,
-        "reverse": 25.4
+        "forward": 16.8,
+        "reverse": 16.8
     },
     "r0791": {
         "forward": 0.73,
         "reverse": 0.73
     },
     "r0734": {
-        "forward": 180.0,
-        "reverse": 180.0
+        "forward": 131.0,
+        "reverse": 131.0
     },
     "r0733": {
-        "forward": 155.0,
-        "reverse": 155.0
+        "forward": 113.0,
+        "reverse": 113.0
     },
     "r0287": {
-        "forward": 7.2,
-        "reverse": 7.2
+        "forward": 7.0,
+        "reverse": 7.0
     },
     "r1446": {
         "forward": 27.1,
@@ -669,7 +669,7 @@
     },
     "HACD1m": {
         "forward": 155.0,
-        "reverse": 155.0
+        "reverse": 113.0
     },
     "ACACT1rm": {
         "forward": 309.5,
@@ -688,128 +688,128 @@
         "reverse": 0.033
     },
     "r0678": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0691": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0681": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0682": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0760": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0761": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0762": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0763": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0764": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0694": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0695": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0765": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0766": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0692": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0693": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0767": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0768": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0769": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0770": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0712": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0713": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0701": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0702": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0771": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0772": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0696": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0697": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "r0773": {
-        "forward": 6.05,
-        "reverse": 6.05
+        "forward": 6.65,
+        "reverse": 6.65
     },
     "FA160ACPH": {
         "forward": 1.19,
         "reverse": 1.19
     },
     "FACOAL40im": {
-        "forward": 23.6,
+        "forward": 2.8,
         "reverse": 65.4
     },
     "BDHm": {
-        "forward": 150.0,
-        "reverse": 150.0
+        "forward": 295.0,
+        "reverse": 295.0
     },
     "OCOAT1m": {
         "forward": 65.0,
@@ -824,8 +824,8 @@
         "reverse": 79.0635
     },
     "LEUTAm": {
-        "forward": 8.555,
-        "reverse": 8.555
+        "forward": 78.0,
+        "reverse": 100.5
     },
     "OIVD1m": {
         "forward": 107.5,
@@ -844,8 +844,8 @@
         "reverse": 6.8
     },
     "ILETAm": {
-        "forward": 8.555,
-        "reverse": 8.555
+        "forward": 69.9,
+        "reverse": 100.5
     },
     "OIVD3m": {
         "forward": 107.5,
@@ -856,20 +856,20 @@
         "reverse": 20.7
     },
     "ECOAH9m": {
-        "forward": 180.0,
-        "reverse": 180.0
+        "forward": 131.0,
+        "reverse": 131.0
     },
     "HACD9m": {
-        "forward": 155.0,
-        "reverse": 155.0
+        "forward": 113.0,
+        "reverse": 113.0
     },
     "ACACT10m": {
-        "forward": 7.2,
-        "reverse": 7.2
+        "forward": 7.0,
+        "reverse": 7.0
     },
     "VALTAm": {
-        "forward": 8.555,
-        "reverse": 8.555
+        "forward": 50.5,
+        "reverse": 100.5
     },
     "OIVD2m": {
         "forward": 17.2,
@@ -880,8 +880,8 @@
         "reverse": 20.7
     },
     "ECOAH12m": {
-        "forward": 180.0,
-        "reverse": 180.0
+        "forward": 131.0,
+        "reverse": 131.0
     },
     "3HBCOAHLm": {
         "forward": 266.0,
@@ -920,23 +920,23 @@
         "reverse": 1.5
     },
     "THRD_L": {
-        "forward": 2.9000000000000004,
-        "reverse": 2.9000000000000004
+        "forward": 7.385,
+        "reverse": 7.385
     },
     "r1155": {
         "forward": NaN,
         "reverse": NaN
     },
     "r1154": {
-        "forward": 265.0,
-        "reverse": 265.0
+        "forward": 190.0,
+        "reverse": 190.0
     },
     "2HBO": {
         "forward": 510.0,
         "reverse": 137.5
     },
     "METAT": {
-        "forward": 0.154,
+        "forward": 0.049,
         "reverse": 0.154
     },
     "METAT2_MitoCore": {
@@ -948,63 +948,63 @@
         "reverse": 3.8
     },
     "ADNK1": {
-        "forward": 1.433333,
-        "reverse": 112.0
+        "forward": 0.2475,
+        "reverse": 282.0
     },
     "CYSTS": {
-        "forward": 7.785,
-        "reverse": 7.785
+        "forward": 16.8,
+        "reverse": 14.7
     },
     "CYSTGL": {
-        "forward": 1.7,
+        "forward": 1.855,
         "reverse": 1.7
     },
     "CYSO": {
-        "forward": 0.033,
-        "reverse": 0.033
+        "forward": 1.045,
+        "reverse": 1.85
     },
     "3SALATAi": {
         "forward": 148.0,
-        "reverse": 55.9
+        "reverse": 36.83
     },
     "3SPYRSP": {
         "forward": NaN,
         "reverse": NaN
     },
     "CYSTA": {
-        "forward": 148.0,
-        "reverse": 55.9
+        "forward": 133.0,
+        "reverse": 36.83
     },
     "CYSTAm": {
-        "forward": 148.0,
-        "reverse": 55.9
+        "forward": 133.0,
+        "reverse": 36.83
     },
     "MCPST": {
-        "forward": 1.3,
-        "reverse": 1.3
+        "forward": 2.05,
+        "reverse": 2.05
     },
     "MCPSTm_MitoCore": {
-        "forward": 1.3,
-        "reverse": 1.3
+        "forward": 2.05,
+        "reverse": 2.05
     },
     "r0595m_MitoCore": {
-        "forward": 1.3,
-        "reverse": 1.3
+        "forward": 2.05,
+        "reverse": 2.05
     },
     "r0595B_MitoCore": {
-        "forward": 1.3,
-        "reverse": 1.3
+        "forward": 2.05,
+        "reverse": 2.05
     },
     "MCLOR": {
-        "forward": 148.3,
-        "reverse": 148.3
+        "forward": 220.5,
+        "reverse": 220.5
     },
     "r0193": {
-        "forward": 6.29,
+        "forward": 0.67,
         "reverse": 6.29
     },
     "TRPO2": {
-        "forward": 19.5,
+        "forward": 19.6,
         "reverse": 19.5
     },
     "FKYNH": {
@@ -1068,11 +1068,11 @@
         "reverse": 38.6
     },
     "r0450": {
-        "forward": 5.9,
-        "reverse": 5.9
+        "forward": 5.1,
+        "reverse": 5.1
     },
     "LYSOXc_MitoCore": {
-        "forward": 1.555,
+        "forward": 38.75,
         "reverse": 1.555
     },
     "PPD2CSPc_MitoCore": {
@@ -1080,7 +1080,7 @@
         "reverse": NaN
     },
     "1PPDCRc_MitoCore": {
-        "forward": 98.0,
+        "forward": 12.0,
         "reverse": 98.0
     },
     "1PPDCRc_NADPH_MitoCore": {
@@ -1108,8 +1108,8 @@
         "reverse": 3.0
     },
     "r0074": {
-        "forward": 35.9,
-        "reverse": 35.9
+        "forward": 26.1,
+        "reverse": 26.1
     },
     "GLU5Km": {
         "forward": 12.25,
@@ -1117,11 +1117,11 @@
     },
     "P5CRm": {
         "forward": 67.65,
-        "reverse": 105.95
+        "reverse": 340.0
     },
     "P5CRxm": {
         "forward": 139.65,
-        "reverse": 74.0
+        "reverse": 330.8
     },
     "ORNTArm": {
         "forward": 2.925,
@@ -1144,8 +1144,8 @@
         "reverse": 3.02
     },
     "ARGDCm": {
-        "forward": 2.7,
-        "reverse": 2.7
+        "forward": 4.800000000000001,
+        "reverse": 2.6
     },
     "AGMTm": {
         "forward": 70.0,
@@ -1156,16 +1156,16 @@
         "reverse": 0.6114999999999999
     },
     "APRTO2m_MitoCore": {
-        "forward": 1.1484999999999999,
-        "reverse": 1.1484999999999999
+        "forward": 0.67,
+        "reverse": 0.67
     },
     "NABTNOm": {
         "forward": 4.25,
         "reverse": 4.25
     },
     "GLUDC": {
-        "forward": 3.965,
-        "reverse": 3.965
+        "forward": 0.858,
+        "reverse": 6.75
     },
     "4ABUTtm": {
         "forward": NaN,
@@ -1180,51 +1180,51 @@
         "reverse": 27.15
     },
     "GLUDxm": {
-        "forward": 102.83335,
-        "reverse": 33.0
+        "forward": 65.0,
+        "reverse": 37.0
     },
     "GLUDym": {
-        "forward": 136.6667,
-        "reverse": 28.8
+        "forward": 111.43335,
+        "reverse": 98.05000000000001
     },
     "GLUDxi": {
-        "forward": 51.0,
-        "reverse": 46.0
+        "forward": 18.1,
+        "reverse": 51.5
     },
     "GLUDy": {
-        "forward": 136.6667,
+        "forward": 17.1,
         "reverse": 28.8
     },
     "GLNS": {
-        "forward": 4.755,
-        "reverse": 4.755
+        "forward": 47.35,
+        "reverse": 5.33
     },
     "GLUNm": {
-        "forward": 28.05,
-        "reverse": 28.05
+        "forward": 132.5,
+        "reverse": 20.0
     },
     "GLUN_MitoCore": {
-        "forward": 84.6,
+        "forward": 75.0,
         "reverse": 84.6
     },
     "PGCD": {
-        "forward": 479.0,
-        "reverse": 0.5775
+        "forward": 115.1,
+        "reverse": 1575.0
     },
     "PSERT": {
         "forward": 0.63,
         "reverse": 0.63
     },
     "PSP_L": {
-        "forward": 26.0,
-        "reverse": 26.0
+        "forward": 0.1805,
+        "reverse": 88.6
     },
     "GHMT2r": {
-        "forward": 0.57,
-        "reverse": 0.57
+        "forward": 4.65,
+        "reverse": 16.2
     },
     "FOLR2": {
-        "forward": 3.625,
+        "forward": 3.2,
         "reverse": 11.7
     },
     "DHFR": {
@@ -1248,12 +1248,12 @@
         "reverse": 0.967
     },
     "r0060": {
-        "forward": 2.9000000000000004,
-        "reverse": 2.9000000000000004
+        "forward": 3.8,
+        "reverse": 7.385
     },
     "GHMT2rm": {
-        "forward": 0.57,
-        "reverse": 0.57
+        "forward": 4.65,
+        "reverse": 16.2
     },
     "GCCam": {
         "forward": 0.033,
@@ -1268,7 +1268,7 @@
         "reverse": 519.0
     },
     "r0514": {
-        "forward": 3.625,
+        "forward": 3.2,
         "reverse": 11.7
     },
     "r0226": {
@@ -1304,15 +1304,15 @@
         "reverse": 6.55
     },
     "AACTOORm_MitoCore": {
-        "forward": 5.4,
-        "reverse": 12.8
+        "forward": 6.25,
+        "reverse": 7.449999999999999
     },
     "LGTHLm_MitoCore": {
         "forward": 1131.6665,
-        "reverse": 1060.0
+        "reverse": 1070.0
     },
     "GLYOXm": {
-        "forward": 5.09,
+        "forward": 437.0,
         "reverse": 5.09
     },
     "LDH_Dm_MitoCore": {
@@ -1340,11 +1340,11 @@
         "reverse": 12.45
     },
     "AMPTASECG": {
-        "forward": 118.3,
-        "reverse": 118.3
+        "forward": 2.165,
+        "reverse": 17.765
     },
     "GLUCYS": {
-        "forward": 3.15,
+        "forward": 2.4,
         "reverse": 3.15
     },
     "GTHS": {
@@ -1360,16 +1360,16 @@
         "reverse": 37.75
     },
     "TYRTA": {
-        "forward": 133.0,
-        "reverse": 22.0
+        "forward": 243.5,
+        "reverse": 157.5
     },
     "TYRTB_MitoCore": {
         "forward": 1.555,
         "reverse": 1.555
     },
     "34HPPOR": {
-        "forward": 4.25,
-        "reverse": 4.25
+        "forward": 3.025,
+        "reverse": 3.025
     },
     "HGNTOR": {
         "forward": 41.5,
@@ -1384,11 +1384,11 @@
         "reverse": 0.1
     },
     "ASNS1": {
-        "forward": 1.65,
+        "forward": 1.94,
         "reverse": 1.47
     },
     "r0127": {
-        "forward": 29.0,
+        "forward": 65.25,
         "reverse": 29.0
     },
     "HISD": {
@@ -1425,7 +1425,7 @@
     },
     "ALCD2yf": {
         "forward": 4.6,
-        "reverse": 10.75
+        "reverse": 23.25
     },
     "ALCD2if": {
         "forward": 3.5333335000000003,
@@ -1456,11 +1456,11 @@
         "reverse": 1.72
     },
     "ADSS": {
-        "forward": 1.04,
-        "reverse": 1.0
+        "forward": 1.1,
+        "reverse": 1.1
     },
     "ARGN": {
-        "forward": 70.0,
+        "forward": 1200.0,
         "reverse": 70.0
     },
     "ARGSL": {
@@ -1468,11 +1468,11 @@
         "reverse": 15.5
     },
     "ARGNm": {
-        "forward": 70.0,
+        "forward": 1200.0,
         "reverse": 70.0
     },
     "ALASm": {
-        "forward": 0.483,
+        "forward": 1.1,
         "reverse": 0.279
     },
     "5AOPtm": {
@@ -1501,7 +1501,7 @@
     },
     "PPPGOmB_MitoCore": {
         "forward": 0.068333335,
-        "reverse": 0.0032849999999999997
+        "reverse": 0.00825
     },
     "PHEMEtm": {
         "forward": NaN,
@@ -1521,7 +1521,7 @@
     },
     "PCHOLPm_hs": {
         "forward": 0.175,
-        "reverse": 0.175
+        "reverse": 69.69999999999999
     },
     "GLYK": {
         "forward": 1670.0,
@@ -1552,8 +1552,8 @@
         "reverse": 73.0
     },
     "NDPK3m": {
-        "forward": 143.5,
-        "reverse": 143.5
+        "forward": 140.0,
+        "reverse": 140.0
     },
     "SPODMm": {
         "forward": 40000.0,
@@ -1568,12 +1568,12 @@
         "reverse": 50.0
     },
     "GTHO": {
-        "forward": 44.64,
+        "forward": 45.61,
         "reverse": 16.825
     },
     "GTHOm": {
-        "forward": 29.28,
-        "reverse": 21.5
+        "forward": 14.08,
+        "reverse": 23.43
     },
     "CITtamB": {
         "forward": NaN,
@@ -1600,8 +1600,8 @@
         "reverse": NaN
     },
     "ATPtmB_MitoCore": {
-        "forward": 143.5,
-        "reverse": 143.5
+        "forward": 140.0,
+        "reverse": 140.0
     },
     "HtmB_MitoCore": {
         "forward": NaN,
@@ -1700,8 +1700,8 @@
         "reverse": NaN
     },
     "r1437": {
-        "forward": 55.9,
-        "reverse": 55.9
+        "forward": 36.83,
+        "reverse": 36.83
     },
     "GLNtm": {
         "forward": NaN,
@@ -1944,8 +1944,8 @@
         "reverse": NaN
     },
     "CYStec": {
-        "forward": 55.9,
-        "reverse": 55.9
+        "forward": 36.83,
+        "reverse": 36.83
     },
     "GLUt_MitoCore": {
         "forward": NaN,
@@ -2132,20 +2132,20 @@
         "reverse": NaN
     },
     "CBPS": {
-        "forward": 4.04,
+        "forward": 4.415,
         "reverse": 4.45
     },
     "ASPCT": {
-        "forward": 57.4,
-        "reverse": 57.4
+        "forward": 57.416664999999995,
+        "reverse": 57.416664999999995
     },
     "DHORTS": {
-        "forward": 62.3,
-        "reverse": 62.3
+        "forward": 5.34,
+        "reverse": 5.34
     },
     "DHORD9": {
-        "forward": 5.885,
-        "reverse": 2.0
+        "forward": 45.0,
+        "reverse": 45.0
     },
     "DM_orot_c": {
         "forward": NaN,

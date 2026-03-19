@@ -81,12 +81,15 @@ def get_sensitivity(objective_original: float, model: cobra.Model, objective: st
     Z_center = objective_original
     Z_plus = get_objective_value(model, objective, split_reactions_in_direction, 1 + relative_step_size)
 
-    if mode == 'centered_difference':
+    try:
+        if mode == 'centered_difference':
 
-        Z_minus = get_objective_value(model, objective, split_reactions_in_direction, 1 - relative_step_size)
-        sensitivity = (Z_plus - Z_minus) / (2 * Z_center * relative_step_size)
-    else:
-        sensitivity = (Z_plus - Z_center) / (Z_center * relative_step_size) # "backward" difference
+            Z_minus = get_objective_value(model, objective, split_reactions_in_direction, 1 - relative_step_size)
+            sensitivity = (Z_plus - Z_minus) / (2 * Z_center * relative_step_size)
+        else:
+            sensitivity = (Z_plus - Z_center) / (Z_center * relative_step_size) # "backward" difference
+    except ZeroDivisionError:
+        sensitivity = 0.0
     
     return pandas.DataFrame({'reaction_id': [reaction.id], 'sensitivity': [sensitivity]})
 
