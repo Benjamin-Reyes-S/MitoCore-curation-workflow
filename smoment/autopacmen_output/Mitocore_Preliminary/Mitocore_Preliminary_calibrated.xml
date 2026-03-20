@@ -9682,7 +9682,6 @@
       <species id="M_ENZYME_ENSG00000119013" name="Pseudo-metabolite of protein ENSG00000119013" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000131495" name="Pseudo-metabolite of protein ENSG00000131495" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000100577" name="Pseudo-metabolite of protein ENSG00000100577" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000178537" name="Pseudo-metabolite of protein ENSG00000178537" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000101365" name="Pseudo-metabolite of protein ENSG00000101365" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000168710" name="Pseudo-metabolite of protein ENSG00000168710" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000168653" name="Pseudo-metabolite of protein ENSG00000168653" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9693,7 +9692,6 @@
       <species id="M_ENZYME_ENSG00000062485" name="Pseudo-metabolite of protein ENSG00000062485" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000183648" name="Pseudo-metabolite of protein ENSG00000183648" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000213619" name="Pseudo-metabolite of protein ENSG00000213619" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000115840" name="Pseudo-metabolite of protein ENSG00000115840" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000138413" name="Pseudo-metabolite of protein ENSG00000138413" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000167863" name="Pseudo-metabolite of protein ENSG00000167863" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000167283" name="Pseudo-metabolite of protein ENSG00000167283" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9705,7 +9703,6 @@
       <species id="M_ENZYME_ENSG00000151366" name="Pseudo-metabolite of protein ENSG00000151366" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000130414" name="Pseudo-metabolite of protein ENSG00000130414" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000130313" name="Pseudo-metabolite of protein ENSG00000130313" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000143158" name="Pseudo-metabolite of protein ENSG00000143158" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000123983" name="Pseudo-metabolite of protein ENSG00000123983" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000140990" name="Pseudo-metabolite of protein ENSG00000140990" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000148672" name="Pseudo-metabolite of protein ENSG00000148672" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9724,7 +9721,6 @@
       <species id="M_ENZYME_ENSG00000112096" name="Pseudo-metabolite of protein ENSG00000112096" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000111640" name="Pseudo-metabolite of protein ENSG00000111640" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000126522" name="Pseudo-metabolite of protein ENSG00000126522" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000005022" name="Pseudo-metabolite of protein ENSG00000005022" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000175198" name="Pseudo-metabolite of protein ENSG00000175198" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000114054" name="Pseudo-metabolite of protein ENSG00000114054" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000126088" name="Pseudo-metabolite of protein ENSG00000126088" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9752,7 +9748,6 @@
       <species id="M_ENZYME_ENSG00000100714" name="Pseudo-metabolite of protein ENSG00000100714" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000197894" name="Pseudo-metabolite of protein ENSG00000197894" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000111775" name="Pseudo-metabolite of protein ENSG00000111775" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000169100" name="Pseudo-metabolite of protein ENSG00000169100" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000131143" name="Pseudo-metabolite of protein ENSG00000131143" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000148218" name="Pseudo-metabolite of protein ENSG00000148218" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000108515" name="Pseudo-metabolite of protein ENSG00000108515" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9766,7 +9761,6 @@
       <species id="M_ENZYME_ENSG00000122971" name="Pseudo-metabolite of protein ENSG00000122971" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000103876" name="Pseudo-metabolite of protein ENSG00000103876" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000120053" name="Pseudo-metabolite of protein ENSG00000120053" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000171314" name="Pseudo-metabolite of protein ENSG00000171314" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000154723" name="Pseudo-metabolite of protein ENSG00000154723" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000156515" name="Pseudo-metabolite of protein ENSG00000156515" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000178127" name="Pseudo-metabolite of protein ENSG00000178127" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9776,10 +9770,8 @@
       <species id="M_ENZYME_ENSG00000146085" name="Pseudo-metabolite of protein ENSG00000146085" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000011052" name="Pseudo-metabolite of protein ENSG00000011052" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000140740" name="Pseudo-metabolite of protein ENSG00000140740" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000066926" name="Pseudo-metabolite of protein ENSG00000066926" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000082212" name="Pseudo-metabolite of protein ENSG00000082212" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000101444" name="Pseudo-metabolite of protein ENSG00000101444" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000157184" name="Pseudo-metabolite of protein ENSG00000157184" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000116459" name="Pseudo-metabolite of protein ENSG00000116459" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000075239" name="Pseudo-metabolite of protein ENSG00000075239" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000128309" name="Pseudo-metabolite of protein ENSG00000128309" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9837,8 +9829,6 @@
       <species id="M_ENZYME_ENSG00000119421" name="Pseudo-metabolite of protein ENSG00000119421" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000142657" name="Pseudo-metabolite of protein ENSG00000142657" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000106605" name="Pseudo-metabolite of protein ENSG00000106605" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000100075" name="Pseudo-metabolite of protein ENSG00000100075" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000131473" name="Pseudo-metabolite of protein ENSG00000131473" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000163541" name="Pseudo-metabolite of protein ENSG00000163541" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000004455" name="Pseudo-metabolite of protein ENSG00000004455" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000059573" name="Pseudo-metabolite of protein ENSG00000059573" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9852,11 +9842,9 @@
       <species id="M_ENZYME_ENSG00000111669" name="Pseudo-metabolite of protein ENSG00000111669" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000183044" name="Pseudo-metabolite of protein ENSG00000183044" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000172115" name="Pseudo-metabolite of protein ENSG00000172115" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000075415" name="Pseudo-metabolite of protein ENSG00000075415" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000105953" name="Pseudo-metabolite of protein ENSG00000105953" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000119711" name="Pseudo-metabolite of protein ENSG00000119711" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000161267" name="Pseudo-metabolite of protein ENSG00000161267" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000108528" name="Pseudo-metabolite of protein ENSG00000108528" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000124767" name="Pseudo-metabolite of protein ENSG00000124767" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000278540" name="Pseudo-metabolite of protein ENSG00000278540" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000112992" name="Pseudo-metabolite of protein ENSG00000112992" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
@@ -9886,19 +9874,12 @@
       <species id="M_ENZYME_ENSG00000138777" name="Pseudo-metabolite of protein ENSG00000138777" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000131844" name="Pseudo-metabolite of protein ENSG00000131844" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000131069" name="Pseudo-metabolite of protein ENSG00000131069" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000093144" name="Pseudo-metabolite of protein ENSG00000093144" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000154930" name="Pseudo-metabolite of protein ENSG00000154930" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000112697" name="Pseudo-metabolite of protein ENSG00000112697" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000186010" name="Pseudo-metabolite of protein ENSG00000186010" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000136143" name="Pseudo-metabolite of protein ENSG00000136143" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000183048" name="Pseudo-metabolite of protein ENSG00000183048" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000184752" name="Pseudo-metabolite of protein ENSG00000184752" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000147853" name="Pseudo-metabolite of protein ENSG00000147853" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000004864" name="Pseudo-metabolite of protein ENSG00000004864" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000197142" name="Pseudo-metabolite of protein ENSG00000197142" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000058063" name="Pseudo-metabolite of protein ENSG00000058063" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000124406" name="Pseudo-metabolite of protein ENSG00000124406" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
-      <species id="M_ENZYME_ENSG00000102743" name="Pseudo-metabolite of protein ENSG00000102743" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
       <species id="M_ENZYME_ENSG00000147684" name="Pseudo-metabolite of protein ENSG00000147684" compartment="sMOMENT" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="0"/>
     </listOfSpecies>
     <listOfParameters>
@@ -9946,7 +9927,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000119013_upper_bound" value="1.37812261980029e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000131495_upper_bound" value="1.75189903356972e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000100577_upper_bound" value="3.31011615118179e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000178537_upper_bound" value="3.6263788741073e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000101365_upper_bound" value="1.09984510127666e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000168710_upper_bound" value="3.02452593694079e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000168653_upper_bound" value="1.84236156579683e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -9957,7 +9937,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000062485_upper_bound" value="1.24693873602396e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000183648_upper_bound" value="3.02823178136444e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000213619_upper_bound" value="2.20737788333324e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000115840_upper_bound" value="1.58557606281303e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000138413_upper_bound" value="7.28852065815524e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000167863_upper_bound" value="8.07470186990792e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000167283_upper_bound" value="6.1237512123935e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -9969,7 +9948,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000151366_upper_bound" value="1.94898951546226e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000130414_upper_bound" value="1.63953182734191e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000130313_upper_bound" value="7.54768620877371e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000143158_upper_bound" value="2.50241039148923e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000123983_upper_bound" value="1.09505058706862e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000140990_upper_bound" value="2.06521496204842e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000148672_upper_bound" value="2.96135390798425e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -9988,7 +9966,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000112096_upper_bound" value="2.29877095312219e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000111640_upper_bound" value="8.23621379732121e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000126522_upper_bound" value="2.7008821906088e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000005022_upper_bound" value="2.3919287207508e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000175198_upper_bound" value="8.78875951952399e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000114054_upper_bound" value="1.57186013269648e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000126088_upper_bound" value="3.40999097712306e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -10016,7 +9993,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000100714_upper_bound" value="3.47566790648284e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000197894_upper_bound" value="5.89210306733357e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000111775_upper_bound" value="9.31993117626479e-07" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000169100_upper_bound" value="1.96505606649697e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000131143_upper_bound" value="5.57729723363913e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000148218_upper_bound" value="9.55736816425422e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000108515_upper_bound" value="3.13386915496184e-05" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -10030,7 +10006,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000122971_upper_bound" value="1.0085165879158e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000103876_upper_bound" value="5.52983891644692e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000120053_upper_bound" value="3.35161830201408e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000171314_upper_bound" value="1.13228064510625e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000154723_upper_bound" value="7.79298693569654e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000156515_upper_bound" value="9.93363034578877e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000178127_upper_bound" value="1.85818705938644e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -10040,10 +10015,8 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000146085_upper_bound" value="5.10695195393054e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000011052_upper_bound" value="4.50022023328607e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000140740_upper_bound" value="5.35508759203367e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000066926_upper_bound" value="8.58283193944065e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000082212_upper_bound" value="8.99227227047406e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000101444_upper_bound" value="3.48591500547649e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000157184_upper_bound" value="1.65017955280346e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000116459_upper_bound" value="6.78763723769875e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000075239_upper_bound" value="2.27693763864657e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000128309_upper_bound" value="5.07609555114215e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -10101,8 +10074,6 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000119421_upper_bound" value="1.07174701801096e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000142657_upper_bound" value="5.95201259817569e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000106605_upper_bound" value="6.31057497515748e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000100075_upper_bound" value="2.97349808773327e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000131473_upper_bound" value="6.6692155128754e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000163541_upper_bound" value="3.1531165963348e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000004455_upper_bound" value="6.9235549450006e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000059573_upper_bound" value="1.14978041906603e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -10116,11 +10087,9 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000111669_upper_bound" value="3.44169820981583e-05" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000183044_upper_bound" value="9.79023343234124e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000172115_upper_bound" value="3.6642252719754e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000075415_upper_bound" value="5.28712481370585e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000105953_upper_bound" value="1.59723728492335e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000119711_upper_bound" value="1.58055116131239e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000161267_upper_bound" value="1.0183243815645e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000108528_upper_bound" value="8.45139283585757e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000124767_upper_bound" value="5.1560041212761e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000278540_upper_bound" value="6.52226311889989e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000112992_upper_bound" value="5.33957309067775e-06" units="mmol_per_gDW_per_hr" constant="true"/>
@@ -10150,19 +10119,12 @@
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000138777_upper_bound" value="3.4222273965853e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000131844_upper_bound" value="1.3536903579608e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000131069_upper_bound" value="9.78210806446799e-07" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000093144_upper_bound" value="9.04191440044447e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000154930_upper_bound" value="1.64946761246332e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000112697_upper_bound" value="2.56577114068472e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000186010_upper_bound" value="1.85977560325055e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000136143_upper_bound" value="1.63964734023252e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000183048_upper_bound" value="9.38669236889405e-07" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000184752_upper_bound" value="1.58789358203962e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000147853_upper_bound" value="5.762394001949e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000004864_upper_bound" value="1.2251417392467e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000197142_upper_bound" value="1.66036101706488e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000058063_upper_bound" value="7.6431872380206e-07" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000124406_upper_bound" value="2.08949214739336e-06" units="mmol_per_gDW_per_hr" constant="true"/>
-      <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000102743_upper_bound" value="2.42790960828432e-06" units="mmol_per_gDW_per_hr" constant="true"/>
       <parameter sboTerm="SBO:0000625" id="R_ENZYME_DELIVERY_ENSG00000147684_upper_bound" value="1.5761894625936e-06" units="mmol_per_gDW_per_hr" constant="true"/>
     </listOfParameters>
     <listOfReactions>
@@ -42319,11 +42281,6 @@
           <speciesReference species="M_ENZYME_ENSG00000100577" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000178537" name="Delivery reaction of pseudo-metabolite ENSG00000178537" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000178537_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000178537" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000101365" name="Delivery reaction of pseudo-metabolite ENSG00000101365" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000101365_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000101365" stoichiometry="1" constant="true"/>
@@ -42372,11 +42329,6 @@
       <reaction id="R_ENZYME_DELIVERY_ENSG00000213619" name="Delivery reaction of pseudo-metabolite ENSG00000213619" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000213619_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000213619" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000115840" name="Delivery reaction of pseudo-metabolite ENSG00000115840" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000115840_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000115840" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000138413" name="Delivery reaction of pseudo-metabolite ENSG00000138413" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000138413_upper_bound">
@@ -42432,11 +42384,6 @@
       <reaction id="R_ENZYME_DELIVERY_ENSG00000130313" name="Delivery reaction of pseudo-metabolite ENSG00000130313" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000130313_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000130313" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000143158" name="Delivery reaction of pseudo-metabolite ENSG00000143158" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000143158_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000143158" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000123983" name="Delivery reaction of pseudo-metabolite ENSG00000123983" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000123983_upper_bound">
@@ -42527,11 +42474,6 @@
       <reaction id="R_ENZYME_DELIVERY_ENSG00000126522" name="Delivery reaction of pseudo-metabolite ENSG00000126522" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000126522_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000126522" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000005022" name="Delivery reaction of pseudo-metabolite ENSG00000005022" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000005022_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000005022" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000175198" name="Delivery reaction of pseudo-metabolite ENSG00000175198" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000175198_upper_bound">
@@ -42669,11 +42611,6 @@
           <speciesReference species="M_ENZYME_ENSG00000111775" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000169100" name="Delivery reaction of pseudo-metabolite ENSG00000169100" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000169100_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000169100" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000131143" name="Delivery reaction of pseudo-metabolite ENSG00000131143" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000131143_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000131143" stoichiometry="1" constant="true"/>
@@ -42739,11 +42676,6 @@
           <speciesReference species="M_ENZYME_ENSG00000120053" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000171314" name="Delivery reaction of pseudo-metabolite ENSG00000171314" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000171314_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000171314" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000154723" name="Delivery reaction of pseudo-metabolite ENSG00000154723" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000154723_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000154723" stoichiometry="1" constant="true"/>
@@ -42789,11 +42721,6 @@
           <speciesReference species="M_ENZYME_ENSG00000140740" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000066926" name="Delivery reaction of pseudo-metabolite ENSG00000066926" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000066926_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000066926" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000082212" name="Delivery reaction of pseudo-metabolite ENSG00000082212" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000082212_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000082212" stoichiometry="1" constant="true"/>
@@ -42802,11 +42729,6 @@
       <reaction id="R_ENZYME_DELIVERY_ENSG00000101444" name="Delivery reaction of pseudo-metabolite ENSG00000101444" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000101444_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000101444" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000157184" name="Delivery reaction of pseudo-metabolite ENSG00000157184" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000157184_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000157184" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000116459" name="Delivery reaction of pseudo-metabolite ENSG00000116459" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000116459_upper_bound">
@@ -43094,16 +43016,6 @@
           <speciesReference species="M_ENZYME_ENSG00000106605" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000100075" name="Delivery reaction of pseudo-metabolite ENSG00000100075" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000100075_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000100075" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000131473" name="Delivery reaction of pseudo-metabolite ENSG00000131473" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000131473_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000131473" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000163541" name="Delivery reaction of pseudo-metabolite ENSG00000163541" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000163541_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000163541" stoichiometry="1" constant="true"/>
@@ -43169,11 +43081,6 @@
           <speciesReference species="M_ENZYME_ENSG00000172115" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000075415" name="Delivery reaction of pseudo-metabolite ENSG00000075415" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000075415_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000075415" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000105953" name="Delivery reaction of pseudo-metabolite ENSG00000105953" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000105953_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000105953" stoichiometry="1" constant="true"/>
@@ -43187,11 +43094,6 @@
       <reaction id="R_ENZYME_DELIVERY_ENSG00000161267" name="Delivery reaction of pseudo-metabolite ENSG00000161267" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000161267_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000161267" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000108528" name="Delivery reaction of pseudo-metabolite ENSG00000108528" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000108528_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000108528" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000124767" name="Delivery reaction of pseudo-metabolite ENSG00000124767" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000124767_upper_bound">
@@ -43339,19 +43241,9 @@
           <speciesReference species="M_ENZYME_ENSG00000131069" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000093144" name="Delivery reaction of pseudo-metabolite ENSG00000093144" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000093144_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000093144" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000154930" name="Delivery reaction of pseudo-metabolite ENSG00000154930" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000154930_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000154930" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000112697" name="Delivery reaction of pseudo-metabolite ENSG00000112697" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000112697_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000112697" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000186010" name="Delivery reaction of pseudo-metabolite ENSG00000186010" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000186010_upper_bound">
@@ -43364,11 +43256,6 @@
           <speciesReference species="M_ENZYME_ENSG00000136143" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000183048" name="Delivery reaction of pseudo-metabolite ENSG00000183048" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000183048_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000183048" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000184752" name="Delivery reaction of pseudo-metabolite ENSG00000184752" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000184752_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000184752" stoichiometry="1" constant="true"/>
@@ -43379,29 +43266,9 @@
           <speciesReference species="M_ENZYME_ENSG00000147853" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000004864" name="Delivery reaction of pseudo-metabolite ENSG00000004864" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000004864_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000004864" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000197142" name="Delivery reaction of pseudo-metabolite ENSG00000197142" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000197142_upper_bound">
         <listOfProducts>
           <speciesReference species="M_ENZYME_ENSG00000197142" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000058063" name="Delivery reaction of pseudo-metabolite ENSG00000058063" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000058063_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000058063" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000124406" name="Delivery reaction of pseudo-metabolite ENSG00000124406" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000124406_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000124406" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-      </reaction>
-      <reaction id="R_ENZYME_DELIVERY_ENSG00000102743" name="Delivery reaction of pseudo-metabolite ENSG00000102743" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000102743_upper_bound">
-        <listOfProducts>
-          <speciesReference species="M_ENZYME_ENSG00000102743" stoichiometry="1" constant="true"/>
         </listOfProducts>
       </reaction>
       <reaction id="R_ENZYME_DELIVERY_ENSG00000147684" name="Delivery reaction of pseudo-metabolite ENSG00000147684" reversible="false" fast="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="R_ENZYME_DELIVERY_ENSG00000147684_upper_bound">
