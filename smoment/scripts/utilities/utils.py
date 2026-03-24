@@ -385,3 +385,22 @@ def cumulative_flux_variability_graph(
 
     if savefig_path != "":
         fig1.savefig(savefig_path, format="svg")
+        
+def check_orphan_deliveries(model):
+    
+    orphan_deliveries = []
+    
+    for reaction in model.reactions:
+        if reaction.id.startswith('ENZYME_DELIVERY_'):
+            metabolites = list(reaction.metabolites.keys())
+            if len(metabolites) > 1:
+                continue
+            metabolite = metabolites[0]
+            
+            if len(metabolite.reactions) == 1:
+                orphan_deliveries.append(reaction.id)
+    
+    print(f'model contains {len(orphan_deliveries)} orphan deliveries.')
+    print(orphan_deliveries)
+    
+    return orphan_deliveries
