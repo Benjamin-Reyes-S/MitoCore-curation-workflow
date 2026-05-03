@@ -1,0 +1,4 @@
+cobra
+pandas 
+memote 
+python-libsbml 

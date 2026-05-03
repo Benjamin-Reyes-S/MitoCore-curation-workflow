@@ -23,3 +23,5 @@ model_curation/Files_Databases/Human1_reactions.tsv
 model_curation/Files_Databases/MNX_chem_xref.tsv
 model_curation/Files_Databases/MNX_reac_xref.tsv
 model_curation/Files_Databases/reac_prop.tsv
+
+Test_output/*csv
