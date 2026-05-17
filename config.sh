@@ -16,21 +16,14 @@ else
 fi
 
 export PYTHONPATH="$(pwd)"
-python3 -m Original_Parse.Parsing_Original_Model
+python3 -m OriginalParse.ParsingOriginalModel
+
+python3 -m PreliminaryCuration.PreliminaryCuration
+
+python3 -m AlignmentToHuman1.AlignmentToHuman1
 
 
-#MitoCore preliminary curation
-#docker compose -f folde/docker-compose.yml up -d --wait
-#python -m Preliminary_Curation.method
 
 #MitoCore MitoMammal parse 
 #docker compose -f folder/docker-compose.yml up -d --wait
 #python -m MitoMammal_Parse.method
-
-#MitoCore MitoMammal parse 
-#docker compose -f folder/docker-compose.yml up -d --wait
-#python -m MitoMammal_Curation.method
-
-#MitoCore alignment to Human1
-#docker compose -f folder/docker-compose.yml up -d --wait
-#python -m Human1_Alignment.method
