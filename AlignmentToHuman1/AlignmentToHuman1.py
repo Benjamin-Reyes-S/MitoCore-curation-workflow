@@ -10,8 +10,9 @@ from src.core.APIRequests import get_hsa_from_uniprot, get_kegg_from_hsa
 mitocore= cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_MitoMammal.xml")
 human1= cobra.io.read_sbml_model('/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Input_Models/Human-GEM.xml')
 
-
+print("Human1 update started.")
 def main():
+    
     print("starting alignmento to Human1")
 
     # Process mnx file (MNX processing function 1.)
@@ -380,4 +381,4 @@ for met_hum in human1.metabolites:
 if __name__ == "__main__":
     main()
 
-
+print("Human1 update finished.")

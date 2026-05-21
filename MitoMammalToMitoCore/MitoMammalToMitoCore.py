@@ -9,7 +9,7 @@ from src.core.parsing import clean_invalid_annotations
 mitocore= cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Masterarbeit/MitoCore_for_Disease_Modelling/Output_Models_MitoCore/Mitocore_Preliminary.xml")
 mitomammal= cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Masterarbeit/MitoCore_for_Disease_Modelling/Input_Models/MitoMAMMAL_08.25.xml")
 
-
+print("MitoMammal update started.")
 def main():
 
 # classification of reactions in MitoMammal and MitoCore
@@ -164,3 +164,5 @@ def main():
 
 if __name__ == "__main__":
     main()  
+
+print("MitoMammal update finished.")

@@ -40,13 +40,8 @@
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_metabolite_annotation_wrong_ids[reactome]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_metabolite_annotation_wrong_ids[metanetx.chemical]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_metabolite_annotation_wrong_ids[biocyc]": true,
-  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[rhea]": true,
-  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[seed.reaction]": true,
-  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[metanetx.reaction]": true,
-  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[bigg.reaction]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[reactome]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[brenda]": true,
-  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_reaction_annotation_wrong_ids[biocyc]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_gene_product_annotation_wrong_ids[refseq]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_gene_product_annotation_wrong_ids[ecogene]": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_gene_product_annotation_wrong_ids[kegg.genes]": true,
@@ -91,5 +86,9 @@
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_consistency.py::test_find_metabolites_not_consumed_with_open_bounds": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_reaction_sbo_presence": true,
   ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_exchange_specific_sbo_presence": true,
-  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_biomass_specific_sbo_presence": true
+  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_biomass_specific_sbo_presence": true,
+  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_annotation.py::test_gene_product_annotation_presence": true,
+  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_metabolic_reaction_specific_sbo_presence": true,
+  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_transport_reaction_specific_sbo_presence": true,
+  ".venv/lib/python3.13/site-packages/memote/suite/tests/test_sbo.py::test_demand_specific_sbo_presence": true
 }

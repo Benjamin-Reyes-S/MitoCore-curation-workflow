@@ -5,7 +5,6 @@ from src.core.parsing import get_gene_annotations_from_reactions, get_model_ids,
 mitocore = cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Input_Models/MitoCore_Original_2017.xml")
 
 
-
 def main():
     print("starting original model parsing")
 

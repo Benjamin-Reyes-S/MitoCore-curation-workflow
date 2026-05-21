@@ -16,9 +16,11 @@ else
 fi
 
 export PYTHONPATH="$(pwd)"
-python3 -m OriginalParse.ParsingOriginalModel
+#python3 -m OriginalParse.ParsingOriginalModel
 
-python3 -m PreliminaryCuration.PreliminaryCuration
+#python3 -m PreliminaryCuration.PreliminaryCuration
+
+python3 -m MitoMammalToMitoCore.MitoMammalToMitoCore
 
 python3 -m AlignmentToHuman1.AlignmentToHuman1
 

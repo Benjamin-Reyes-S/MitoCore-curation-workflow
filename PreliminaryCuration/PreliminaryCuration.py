@@ -11,8 +11,6 @@ mitocore = cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Projects/MitoC
 print("Starting preliminary curation.")
 def main ():
 
-    print("Starting preliminary curation.")
-
     #convert units to standard mmol/h gDW (from umol/min gDW) by multiplying with factor 0.06
     for reaction in mitocore.reactions:
         ub = reaction.upper_bound
