@@ -1,13 +1,4 @@
-smoment/public_information/bigg_models_metabolites.txt
-smoment/public_information/brenda_2024_1.txt
 
-smoment/scripts/_cache
-smoment/log.md
-smoment/scripts/08_FBA_comparison_and_sampling copy no complex gpr.ipynb
-smoment/scripts/08_FBA_comparison_and_sampling.ipynb
-smoment/scripts/09_hopsy_flux_sampling.ipynb
-smoment/scripts/chrr_flux_sampling_09.m
-smoment/scripts/unparameterized_models/e_coli_core.xml
 
 **/__pycache__/
 
@@ -16,12 +7,13 @@ smoment/setup-sampling-deps.bat
 *.pkl
 smoment/fetch-sampling-results.bat
 smoment/remove-cached-sampling-files.bat
-model_curation/Files_Databases/bigg_models_metabolites.txt
-model_curation/Files_Databases/Human1_genes.tsv
-model_curation/Files_Databases/Human1_metabolites.tsv
-model_curation/Files_Databases/Human1_reactions.tsv
-model_curation/Files_Databases/MNX_chem_xref.tsv
-model_curation/Files_Databases/MNX_reac_xref.tsv
-model_curation/Files_Databases/reac_prop.tsv
+Files_Databases/bigg_models_metabolites.txt
+Files_Databases/Human1_genes.tsv
+Files_Databases/Human1_metabolites.tsv
+Files_Databases/Human1_reactions.tsv
+Files_Databases/MNX_chem_xref.tsv
+Files_Databases/MNX_reac_xref.tsv
+Files_Databases/reac_prop.tsv
 
-Test_output/*csv
+Test_output/*.csv
+
