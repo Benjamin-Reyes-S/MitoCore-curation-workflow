@@ -1,0 +1,2 @@
+[console_scripts]
+memote = memote.suite.cli.runner:cli

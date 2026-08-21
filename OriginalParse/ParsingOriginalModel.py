@@ -2,11 +2,21 @@ import cobra
 import subprocess
 from src.core.parsing import get_gene_annotations_from_reactions, get_model_ids,add_ids_to_model, clean_invalid_annotations
 
-mitocore = cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Input_Models/MitoCore_Original_2017.xml")
+mitocore = cobra.io.read_sbml_model("/app/Input_Models/MitoCore_Original_2017.xml")
 
 
 def main():
     print("starting original model parsing")
+
+# ----------------------------------------------------------------------------------------------------------------------------
+    # BiGG (Recon2) ids from notes for possible databases and collect in dataframe
+    print('geting ids for all possible databases ')
+    df_bigg_react = get_model_ids(mitocore, 'reactions', 'notes', ['Recon2'], r"^[A-Za-z0-9_]+$")
+    print(df_bigg_react)
+    df_react_bigg = df_bigg_react.rename(columns={'model_id': 'model_id', 'Recon2': 'bigg.reaction'})
+    print(df_react_bigg)
+    print('adding bigg ids to the model')
+    bigg_react = add_ids_to_model(mitocore, df_react_bigg, 'reactions','bigg.reaction')
 
 # ----------------------------------------------------------------------------------------------------------------------------
     # KEGG ids from notes for possible databases and collect in dataframe
@@ -89,12 +99,12 @@ def main():
     model_clean = clean_invalid_annotations(mitocore)
     print(type(model_clean))
     # save cleaned model as new SBML file
-    cobra.io.write_sbml_model(model_clean, "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Original.xml")
+    cobra.io.write_sbml_model(model_clean, "/app/Output_Models_MitoCore/Mitocore_Original.xml")
     subprocess.run(
     [
         "memote", "report", "snapshot",
-        "--filename", "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Original.html",
-        "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Original.xml",
+        "--filename", "/app/Output_Models_MitoCore/Mitocore_Original.html",
+        "/app/Output_Models_MitoCore/Mitocore_Original.xml",
     ],
     check=True )
     print(" Original model parsing finished")

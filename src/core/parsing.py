@@ -65,6 +65,61 @@ def get_model_ids(model, component_type, dict, databases, pattern):
 
     return pd.DataFrame(ids_dict)
 
+#  extract ids from model (direct passthrough, no regex)
+def get_model_ids_direct(model, component_type, dict, databases):
+    """
+    Extract ids from model annotations for various databases across a specified component type.
+
+    Counterpart to get_model_ids() for the later curation stages (e.g. alignment to Human1):
+    once ids have already been parsed into clean values by add_ids_to_model()/
+    add_ids_to_model_notes() earlier in the pipeline, the raw annotation value is taken as-is
+    instead of being re.findall()-parsed against a pattern. Calling get_model_ids() at this
+    stage would raise a TypeError whenever the stored value is already a list rather than a
+    string, so the two are not interchangeable.
+
+    Parameters:
+    - model: COBRApy model object (mitocore)
+    - component_type: str, one of 'reactions', 'metabolites', 'genes'
+    - dict: dictionary where database ids are located ('annotation', 'notes')
+    - databases: list of str, e.g., ['kegg', 'bigg', 'metanetx', 'uniprot'].
+
+    Returns:
+    - DataFrame with component ID and extracted database ids.
+    """
+    # Initialize dictionary
+    ids_dict = {'model_id': []}
+    for db in databases:
+        ids_dict[db] = []
+
+    # Access model core-component (reactions, genes, metabolites)
+    components = getattr(model, component_type)
+
+    for comp in components:
+        ids_dict['model_id'].append(comp.id)
+
+        for db in databases:
+            value = None
+            annotation = getattr(comp, dict, {})
+
+            # look for different naming conventions
+            for key in [db,
+                        f"{db}.reaction",
+                        f"{db}.compound",
+                        f"{db}.metabolite",
+                        f"{db}.chemical",
+                        f"{db}.genes",
+                        f"{db}.gene",
+                        f"{db} id",
+                        f"{db.upper()} id",
+                        ]:
+                if key in annotation:
+                    value = annotation[key]
+                    break
+
+            ids_dict[db].append(value)
+
+    return pd.DataFrame(ids_dict)
+
 #  map them to a target database in a mapping file
 def map_ids_to_db(id_df, input_df, id_col_input, id_col_map, target_db_col, sep_map_file):
     """
@@ -174,6 +229,54 @@ def add_ids_to_model(model, df, component_type, database):
                     break
 
         return model
+
+# add ids to model (overwrite variant)
+def overwrite_ids_in_model(model, df, component_type, database):
+    """
+    Set ids from a DataFrame onto the model annotations for a specified component type.
+
+    Counterpart to add_ids_to_model(): instead of merging with and de-duplicating against any
+    existing annotation, this replaces the annotation entry outright (collapsing single-item
+    lists back to a scalar). Used in the alignment-to-Human1 stage, where the incoming source
+    (e.g. Human1, MetaNetX) should take precedence over whatever was already there rather than
+    being appended to it.
+
+    Parameters:
+    - model: COBRApy model object (e.g., mitocore)
+    - df: DataFrame with model_id and database id columns.
+    - component_type: str, one of 'reactions', 'metabolites', 'genes'
+    - database: str, the name of the database column in df to map (e.g., 'kegg', 'bigg')
+
+    Returns:
+    - Updated model with new annotations set.
+    """
+    components = getattr(model, component_type)
+
+    for index, row in df.iterrows():
+        model_id = row['model_id']
+        db_value = row[database]
+
+        # skip missing or None values
+        if db_value is None or (isinstance(db_value, float) and pd.isna(db_value)):
+            continue
+
+        # convert stringified lists (from CSVs) into real lists
+        if isinstance(db_value, str) and db_value.startswith("[") and db_value.endswith("]"):
+            try:
+                db_value = ast.literal_eval(db_value)
+            except Exception as e:
+                print(f"Error parsing {db_value}: {e}")
+                continue
+
+        for comp in components:
+            if comp.id == model_id:
+                if isinstance(db_value, list) and len(db_value) == 1:
+                    db_value = db_value[0]
+                comp.annotation[database] = db_value
+                print(f"Added {db_value} (type {type(db_value)}) to {model_id}")
+                break
+
+    return model
 
 #  get attribute (not inside of attribute 'annotation', e.g.GPR rule)
 def get_model_ids_for_attr(model, component_type, attr_name):
@@ -435,6 +538,63 @@ def clean_not_human_genes(model):
     non_human_genes = [gene for gene in model.genes if not gene.id.startswith("ENSG")]
     cobra.manipulation.delete.remove_genes(model, non_human_genes, remove_reactions=False)
     if non_human_genes:
-        print(f"Removed non-human genes: {[gene.id for gene in non_human_genes]}")    
+        print(f"Removed non-human genes: {[gene.id for gene in non_human_genes]}")
     return model
+
+# ---- visualization / diagnostic helpers (used at pipeline checkpoints) ----
+
+def visualization_model_annotations(model, component_type):
+    """
+    Print the 'notes' dictionary for every component of a given type, to eyeball model
+    annotations at a curation checkpoint.
+
+    - model: COBRApy model object (e.g., mitocore)
+    - component_type: str ('reactions', 'metabolites', 'genes')
+    """
+    for comp in getattr(model, component_type):
+        notes = comp.notes
+        print(notes)
+
+
+def visualization_gpr(model, name, timeline):
+    """
+    Print the number of reactions with and without a GPR rule in a metabolic model.
+
+    - model: COBRApy model object
+    - name: str, name of the model (for the printed label)
+    - timeline: str, stage of the model for naming (e.g. 'prior', 'after')
+    """
+    has_gpr = []
+    no_gpr = []
+
+    for reaction in model.reactions:
+        if reaction.gene_reaction_rule.strip():
+            has_gpr.append(reaction)
+        else:
+            no_gpr.append(reaction)
+
+    print(f"{name} reactions with GPR {timeline}:", len(has_gpr))
+    print(f"{name}_reactions empty GPR {timeline}:", len(no_gpr))
+
+
+def gpr_counte(model):
+    """
+    Count the absolute number of GPR elements in a model, splitting each reaction's GPR on 'or'.
+
+    - model: COBRApy model object
+
+    Returns: None (prints the elements and the total count)
+    """
+    gpr_absolute = []
+
+    for reaction in model.reactions:
+        gpr = reaction.gene_reaction_rule
+        elements_in_gpr = str(gpr).split(' or ')
+
+        for element in elements_in_gpr:
+            if element not in [None, 'N/A', '']:
+                gpr_absolute.append(element)
+
+    print(gpr_absolute)
+    return print(f" {model}, has {len(gpr_absolute)} GPRs")
 

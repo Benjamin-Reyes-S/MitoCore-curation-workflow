@@ -1,0 +1,20 @@
+.git/
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Heavy data -- fetched at runtime onto mounted volumes, never baked into the image.
+Input_Models/
+Output_Models_MitoCore/
+Files_Databases/
+Test_output/
+model_curation/
+smoment/
+*.xml
+*.html
+
+# Notebooks aren't needed to run the pipeline.
+*.ipynb

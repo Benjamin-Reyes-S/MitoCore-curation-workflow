@@ -5,7 +5,7 @@ import pandas as pd
 from src.core.parsing import get_model_ids, clean_invalid_annotations, add_ids_to_model
 from src.core.APIRequests import get_uniprot_from_hgnc
 
-mitocore = cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Original.xml")
+mitocore = cobra.io.read_sbml_model("/app/Output_Models_MitoCore/Mitocore_Original.xml")
 
 
 print("Starting preliminary curation.")
@@ -28,7 +28,7 @@ def main ():
 
     # load BIGG metabolites model
     bigg_metabolites = pd.read_csv(
-        "/Users/benjaminreyes/Desktop/Masterarbeit/MitoCore_for_Disease_Modelling/Files_Databases/bigg_models_metabolites.txt",
+        "/app/Files_Databases/bigg_models_metabolites.txt",
         sep="\t"
     )
     print("BIGG metabolites txt file loaded.")
@@ -79,6 +79,7 @@ def main ():
                         met.annotation['bigg.metabolite'] = bigg_id_mapping[kegg]
 
     # Manual curation of metabolites with mutiple bigg ids
+    met = mitocore.metabolites.get_by_id("2hb_c")  # used in recon 3d
     met.annotation['bigg.metabolite'] = "2hb"
 
     met = mitocore.metabolites.get_by_id("2hb_e")  # used in recon 3d
@@ -110,12 +111,12 @@ def main ():
     model_clean = clean_invalid_annotations(mitocore)
     print(type(model_clean))
     # save cleaned model as new SBML file
-    cobra.io.write_sbml_model(model_clean, "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Preliminary.xml")
+    cobra.io.write_sbml_model(model_clean, "/app/Output_Models_MitoCore/Mitocore_Preliminary.xml")
     subprocess.run(
     [
         "memote", "report", "snapshot",
-        "--filename", "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Preliminary.html",
-        "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_Preliminary.xml",
+        "--filename", "/app/Output_Models_MitoCore/Mitocore_Preliminary.html",
+        "/app/Output_Models_MitoCore/Mitocore_Preliminary.xml",
     ],
     check=True )
 

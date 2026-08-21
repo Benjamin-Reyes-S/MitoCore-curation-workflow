@@ -1,0 +1,8 @@
+services:
+  mitocore-curation:
+    build: .
+    volumes:
+      - ./Input_Models:/app/Input_Models
+      - ./Files_Databases:/app/Files_Databases
+      - ./Output_Models_MitoCore:/app/Output_Models_MitoCore
+      - ./Test_output:/app/Test_output

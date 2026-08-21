@@ -3,14 +3,15 @@ from cobra import Model, Reaction, Metabolite
 import pandas as pd 
 import subprocess
 
-from src.core.parsing import clean_invalid_annotations
+from src.core.parsing import clean_invalid_annotations, clean_not_human_genes
 
 
-mitocore= cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Masterarbeit/MitoCore_for_Disease_Modelling/Output_Models_MitoCore/Mitocore_Preliminary.xml")
-mitomammal= cobra.io.read_sbml_model("/Users/benjaminreyes/Desktop/Masterarbeit/MitoCore_for_Disease_Modelling/Input_Models/MitoMAMMAL_08.25.xml")
+mitocore= cobra.io.read_sbml_model("/app/Output_Models_MitoCore/Mitocore_Preliminary.xml")
+mitomammal= cobra.io.read_sbml_model("/app/Input_Models/MitoMAMMAL_08.25.xml")
 
 print("MitoMammal update started.")
 def main():
+    global mitocore
 
 # classification of reactions in MitoMammal and MitoCore
     mitomammal_in_mitocore= {'mitocore_id':[], 'mitomammal_id':[], 'mitocore_GPR':[], 'mitomammal_GPR':[]}
@@ -141,24 +142,19 @@ def main():
 
 
 
-    def clean_not_human_genes(model):
-        '''Remove non-human genes from the model'''
-        non_human_genes = [gene for gene in model.genes if not gene.id.startswith("ENSG")]
-        cobra.manipulation.delete.remove_genes(model, non_human_genes, remove_reactions=False)
-        if non_human_genes:
-            print(f"Removed non-human genes: {[gene.id for gene in non_human_genes]}")    
-        return model
+    # remove non-human (murine) genes introduced by MitoMAMMAL before saving
+    mitocore = clean_not_human_genes(mitocore)
 
-   # clean model from N/A values, save and run memote test
+    # clean model from N/A values, save and run memote test
     model_clean = clean_invalid_annotations(mitocore)
     print(type(model_clean))
     # save cleaned model as new SBML file
-    cobra.io.write_sbml_model(model_clean, "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_MitoMammal.xml")
+    cobra.io.write_sbml_model(model_clean, "/app/Output_Models_MitoCore/Mitocore_MitoMammal.xml")
     subprocess.run(
     [
         "memote", "report", "snapshot",
-        "--filename", "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_MitoMammal.html",
-        "/Users/benjaminreyes/Desktop/Projects/MitoCore_Modular_Curation/Output_Models_MitoCore/Mitocore_MitoMammal.xml",
+        "--filename", "/app/Output_Models_MitoCore/Mitocore_MitoMammal.html",
+        "/app/Output_Models_MitoCore/Mitocore_MitoMammal.xml",
     ],
     check=True )
 
