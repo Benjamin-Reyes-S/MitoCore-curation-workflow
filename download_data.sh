@@ -23,7 +23,9 @@ fetch() {
 
     echo "downloading: $dest"
     echo "  from: $url"
-    curl -fSL --retry 3 --retry-delay 5 -o "${dest}.tmp" "$url"
+    # -C - resumes from any partial ${dest}.tmp left by a prior interrupted
+    # attempt instead of restarting from zero (these are large, slow fetches).
+    curl -fSL -C - --retry 5 --retry-delay 5 --retry-max-time 0 -o "${dest}.tmp" "$url"
     mv "${dest}.tmp" "$dest"
 }
 
